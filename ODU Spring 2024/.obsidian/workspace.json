@@ -11,8 +11,12 @@
             "id": "813ba29dbfd41fac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.5) Example 12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.5) Example 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.5) Example 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.5) Example 12.md"
+              }
             }
           },
           {
@@ -151,11 +159,12 @@
   },
   "active": "813ba29dbfd41fac",
   "lastOpenFiles": [
+    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.4) Example 11 - Multivariate Hypergeometric.md",
+    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.5) Example 12.md",
     "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.2) Multivariate Hypergeometric Distribution.md",
     "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.1.1) Discrete Uniform.md",
     "Test.md",
     "STAT330 Intro to Probability & Statistics/Master.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.4) Example 11 - Multivariate Hypergeometric.md",
     "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.3) Example 10 - Multivariate Hypergeometric.md",
     "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/Images",
     "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.1) Multivariate Hypergeometric Experiment.md",
@@ -187,7 +196,6 @@
     "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.2.3) Binomial Table A.1.md",
     "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.2.2) Binomial Probability Distribution.md",
     "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.2.1) Binomial Experiments.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.1.2) Mean + Variance of a Discrete Uniform.md",
     "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.5) Cardinality of Sets/Images/countable_rational_numbers.png",
     "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.4) Sequences and Summations/Images/geometric_series.png",
     "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.4) Sequences and Summations/Images/useful_sequences.png",
