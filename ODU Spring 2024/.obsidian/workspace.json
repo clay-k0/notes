@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4d70eace6cc560aa",
+        "id": "56297faca43b8fa8",
         "type": "tabs",
         "children": [
           {
-            "id": "1a7cbed06e1e8166",
+            "id": "614eddedfeac63a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.6) Matrices/(M3.6.1) Matrices/(M3.6.1c) Matrices Part 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5004348754883
+    "width": 358.5086555480957
   },
   "right": {
     "id": "aae9cf8262a7b3a9",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.6) Matrices/(M3.6.1) Matrices/(M3.6.1c) Matrices Part 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.6) Matrices/(M3.6.1) Matrices/(M3.6.1c) Matrices Part 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.6) Matrices/(M3.6.1) Matrices/(M3.6.1c) Matrices Part 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,45 +149,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a7cbed06e1e8166",
+  "active": "614eddedfeac63a6",
   "lastOpenFiles": [
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.2.4) Mean + Variance of a Binomial Random Variable.md",
-    "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.6) Matrices/(M3.6.1) Matrices/(M3.6.1c) Matrices Part 3.md",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/(M8.3.5) Poisson Process.md",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/Resources/Table A2 - Poisson Probability Sums.pdf",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/(M8.3.4) Poisson Table A2.md",
+    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.2) Binomial/(M7.2.3) Binomial Table A.1.md",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/Resources",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/(M8.3.3) Poisson Probability Example.md",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/(M8.3.2) Poisson Probability Distributions.md",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/(M8.3.1) Poisson Experiment.md",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.2) Geometric/(M8.2.3) Geometric Example.md",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.2) Geometric/(M8.2.2) Geometric Probability Distribution.md",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.2) Geometric/(M8.2.1) Geometric Experiment.md",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.1) Negative Binomial/(M8.1.3) Negative Binomial Examples.md",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.1) Negative Binomial/(M8.1.1) Negative Binomial Experiment.md",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.2) Geometric/M(8.2.1) Geometric Experiment.md",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.1) Negative Binomial/(M8.1.2) Negative Binomial Probability Distribution.md",
+    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.5) Multivariate Hypergeometric/(M7.5.1) Multivariate Hypergeometric Experiment.md",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/(M8.3.5) Poisson Process",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/(M8.3.4) Poisson Table A2",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/(M8.3.3) Poisson Example",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/(M8.3.2) Poisson Probability Distrbutions",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/(M8.3.1) Poisson Experiment",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.2) Geometric/(M8.2.3) Geometric Example",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.2) Geometric/(M8.2.2) Geometric Probability Distrbution",
+    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.2) Geometric/(M8.2.1) Geometric Experiment",
+    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.4) Hypergeometric/(M7.4.1) Hypergeometric Experiment.md",
+    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.3) Multinomial/(M7.3.1) Multinomial Experiments.md",
+    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.2) Binomial/(M7.2.1) Binomial Experiments.md",
+    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.1) Discrete Uniform/(M7.1.1) Discrete Uniform.md",
     "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.6) Matrices/(M3.6.1) Matrices/(M3.6.1b) Matrices Part 2.md",
-    "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.6) Matrices/(M3.6.1) Matrices/(M3.6.1a) Matrices Part 1.md",
-    "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.6) Matrices/(M3.6.1) Matrices",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.4) Example 11 - Multivariate Hypergeometric.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.3) Example 10 - Multivariate Hypergeometric.md",
-    "Test.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.2) Multivariate Hypergeometric Distribution.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.1) Multivariate Hypergeometric Experiment.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.2.2) Binomial Probability Distribution.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.4.2) Hypergeometric Distribution.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.4.3) Hypergeometric Example.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.4.5) Binomial Approximation to the Hypergeometric.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.4.1) Hypergeometric Experiment.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.3.3) Multinomial Example.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.3.1) Multinomial Experiments.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.3.2) Multinomial Probability Distributions.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.2.3) Binomial Table A.1.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.2.1) Binomial Experiments.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.1.2) Mean + Variance of a Discrete Uniform.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.1.1) Discrete Uniform.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/(M7.5.5) Example 12.md",
-    "STAT330 Intro to Probability & Statistics/Master.md",
-    "STAT330 Intro to Probability & Statistics/(M.7) Discrete Probability Distributions - Part 1/Images",
-    "CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities/(M7.4) Common Vulnerability Scoring System/(M7.4.1) CVSS.md",
-    "CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities/(M7.3) Common Vulnerability and Exposures (CVE)/(M7.3.1) CVE.md",
-    "CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities/(M7.7) Zero-day Vulnerabilities/(M7.7.1) Zero-day Vulnerabilities.md",
-    "CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities/(M7.7) Zero-day Vulnerabilities",
-    "CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities/(M7.6) Vulnerabilities Databases",
-    "CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities/(M7.5) Common Weakness Enumeration (CWE)",
-    "CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities/(M7.4) Common Vulnerability Scoring System",
-    "CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities/(M7.3) Common Vulnerability and Exposures (CVE)",
+    "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.5) Cardinality of Sets/(M3.5.1) Cardinality of Sets.md",
+    "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.4) Sequences and Summations/(M.3.4.1a) Sequences.md",
+    "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.4) Sequences and Summations/(M3.4.1b) Summations.md",
+    "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.2) Set Operations/(M3.2.1) Set Operations.md",
+    "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.1) Sets/(M3.1.1) Sets.md",
+    "CS381 Discrete Structures/(M2) Logic and Proofs/(M2.4) Proofs/(M2.4.1) Intro to Proofs/(M2.4.1) Intro to Proofs.md",
     "CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities/(M7.2) Types of Vulnerabilities/Images/types_of_vulnerabilities.png",
-    "CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities/(M7.2) Types of Vulnerabilities/Images",
-    "CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities/(M7.2) Types of Vulnerabilities",
-    "CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities",
     "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.5) Cardinality of Sets/Images/countable_rational_numbers.png",
     "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.4) Sequences and Summations/Images/geometric_series.png",
     "CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.4) Sequences and Summations/Images/useful_sequences.png",
