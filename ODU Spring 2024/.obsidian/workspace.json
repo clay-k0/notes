@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "84ff09692b0b1b68",
+        "id": "540659fb1a898cfe",
         "type": "tabs",
         "children": [
           {
-            "id": "f3d9e2a6f635b58a",
+            "id": "4a44a816b41504b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1c) Optimization.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1c) Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1c) Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1c) Optimization.md"
+              }
             }
           },
           {
@@ -150,8 +158,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3d9e2a6f635b58a",
+  "active": "4a44a816b41504b7",
   "lastOpenFiles": [
+    "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1b) Sorting.md",
+    "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/Resources/bubble_sort_example.png",
+    "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/Resources",
+    "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1a) Intro and Searching.md",
+    "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1c) Optimization.md",
+    "CS381 Discrete Structures/(M4) Algorithms/(M4.4) Module Resources/(M4.4.1) Module Resources.md",
+    "CS381 Discrete Structures/(M4) Algorithms/(M4.3) Complexity of Algorithms/(M4.3.1) Complexity of Algorithms.md",
+    "CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions.md",
+    "CS381 Discrete Structures/(M4) Algorithms/(M4.4) Module Resources",
+    "CS381 Discrete Structures/(M4) Algorithms/(M4.3) Complexity of Algorithms",
+    "CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions",
+    "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms",
+    "CS381 Discrete Structures/(M4) Algorithms",
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.1) Standard Normal Distribution.md",
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/Resources/Table A3 - Areas under the Normal Curve.pdf",
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/Resources/standard_normal_distribution_z_score.png",
@@ -179,23 +200,10 @@
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.3) Areas to the Right.md",
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.2) Areas to the Left.md",
     "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.1) Negative Binomial/(M8.1.3) Negative Binomial Examples.md",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.1) Review of Continuous Random Variables",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.3) Properties of a Normal Distribution",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.2) Uniform Distribution",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.1) Review of Continous Random Variables",
     "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.1) Negative Binomial/(M8.1.2) Negative Binomial Probability Distribution.md",
     "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.1) Discrete Uniform/(M7.1.2) Mean + Variance of a Discrete Uniform.md",
     "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.2) Binomial/(M7.2.3) Binomial Table A.1.md",
     "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.2) Binomial/(M7.2.2) Binomial Probability Distribution.md",
-    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.2) Binomial/(M7.2.1) Binomial Experiments.md",
-    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.4) Hypergeometric/(M7.4.2) Hypergeometric Distribution.md",
-    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.4) Hypergeometric/(M7.4.1) Hypergeometric Experiment.md",
-    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.4) Hypergeometric/(M7.4.3) Hypergeometric Example.md",
-    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/(M8.3.5) Poisson Process.md",
-    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.2) Geometric/(M8.2.3) Geometric Example.md",
-    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.3) Poisson/(M8.3.4) Poisson Table A2.md",
-    "CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities/(M7.2) Types of Vulnerabilities/Images/types_of_vulnerabilities.png"
+    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.2) Binomial/(M7.2.1) Binomial Experiments.md"
   ]
 }
