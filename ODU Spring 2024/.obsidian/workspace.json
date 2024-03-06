@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "540659fb1a898cfe",
+        "id": "cdd38b2b892b4476",
         "type": "tabs",
         "children": [
           {
-            "id": "4a44a816b41504b7",
+            "id": "5a97317c801bc675",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1c) Optimization.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5086555480957,
-    "collapsed": true
+    "width": 310.5086555480957
   },
   "right": {
     "id": "aae9cf8262a7b3a9",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1c) Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1c) Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1c) Optimization.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,52 +149,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a44a816b41504b7",
+  "active": "5a97317c801bc675",
   "lastOpenFiles": [
-    "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1b) Sorting.md",
-    "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/Resources/bubble_sort_example.png",
-    "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/Resources",
-    "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1a) Intro and Searching.md",
-    "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1c) Optimization.md",
-    "CS381 Discrete Structures/(M4) Algorithms/(M4.4) Module Resources/(M4.4.1) Module Resources.md",
-    "CS381 Discrete Structures/(M4) Algorithms/(M4.3) Complexity of Algorithms/(M4.3.1) Complexity of Algorithms.md",
-    "CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions.md",
-    "CS381 Discrete Structures/(M4) Algorithms/(M4.4) Module Resources",
-    "CS381 Discrete Structures/(M4) Algorithms/(M4.3) Complexity of Algorithms",
-    "CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions",
-    "CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms",
-    "CS381 Discrete Structures/(M4) Algorithms",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.1) Standard Normal Distribution.md",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/Resources/Table A3 - Areas under the Normal Curve.pdf",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/Resources/standard_normal_distribution_z_score.png",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/Resources/table_a3_area_standard_normal.png",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.3) Properties of a Normal Distribution/(M9.3.1) Properties of a Normal Distribution.md",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/Resources",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.3) Properties of a Normal Distribution/Resources/normal_distribution_same_sd_diff_means.png",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.3) Properties of a Normal Distribution/Resources/normal_distribution_diff_means_diff_sd.png",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.3) Properties of a Normal Distribution/Resources/normal_distribution_same_mean_diff_sd.png",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.3) Properties of a Normal Distribution/Resources",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.3) Properties of a Normal Distribution/Resources/normal_distribution_curve.png",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.2) Uniform Distribution/(M9.2.1) Uniform Distribution.md",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.2) Uniform Distribution/Resources/example_1_uniform_distribution.jpg",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.2) Uniform Distribution/Resources/uniform_distribution.png",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.2) Uniform Distribution/Resources",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.1) Review of Continuous Random Variables/(M9.1.1) Review of Continuous Random Variables.md",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.2) Uniform Distribution/Resources/example_1_uniform_distribution_colored.jpg",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/(M9.5.3) Finding Limits of the Random Variable.md",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/(M9.5.2) Finding Probabilities.md",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/(M9.5.1) Nonstandard Normal Distribution.md",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.7) More Examples.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.2) Race Conditions.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.1) Numeric Overflow & Underflow.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.8) Vulnerability Mitigation and Input Validation/(M8.8.2) Input Validation.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.8) Vulnerability Mitigation and Input Validation/(M8.8.1) Vulnerability Mitigation.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.7) Buffer Overflow/(M8.7.2) Example Overflow.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.7) Buffer Overflow/(M8.7.1) Introduction.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.6) User Space vs Kernel Space Vulnerabilities/(M8.6.1) User Space vs Kernel Space Vulnerabilities.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.5) Least Privilege Principle/(M8.5.3) Dirty COW Exploit.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.5) Least Privilege Principle/(M8.5.2) Privilege Escalation.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.5) Least Privilege Principle/(M8.5.1) Introduction.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.4) Access Control/(M8.4.3) Local vs Remote.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.4) Access Control/(M8.4.2) External vs Within.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.4) Access Control/(M8.4.1) Access Control.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.3) Password Weakness/(M8.3.3) Countermeasures.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.3) Password Weakness/(M8.3.2) Rainbow Tables.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.3) Password Weakness/(M8.3.1) Introduction.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.2) Common Attacks and Attack Patterns/(M8.2.3) Port Scanning.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.2) Common Attacks and Attack Patterns/(M8.2.2) Countermeasures.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.2) Common Attacks and Attack Patterns/(M8.2.1) Common Attacks and Attack Patterns.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.1) Vulnerability and Exploit/(M8.1.3) Vulnerability, Exploits to Attacks.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.1) Vulnerability and Exploit/(M8.1.2) Exploit Example.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.1) Vulnerability and Exploit/(M8.1.1 Vulnerability and Exploit.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.1) Vulnerability and Exploit/(M8.1.1) Vulnerability and Exploit",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.8) Vulnerability Mitigation and Input Validation",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.7) Buffer Overflow",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.6) User Space vs Kernel Space Vulnerabilities",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.5) Least Privilege Principle",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.4) Access Control",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.3) Password Weakness",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.2) Common Attacks and Attack Patterns",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.1) Vulnerability and Exploit",
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.6) Finding Z Values.md",
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.5) Finding Probabilities.md",
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.4) Areas Between 2 Values.md",
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.3) Areas to the Right.md",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.2) Areas to the Left.md",
-    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.1) Negative Binomial/(M8.1.3) Negative Binomial Examples.md",
-    "STAT330 Intro to Probability & Statistics/(M8) Discrete Probability Distributions - Part 2/(M8.1) Negative Binomial/(M8.1.2) Negative Binomial Probability Distribution.md",
-    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.1) Discrete Uniform/(M7.1.2) Mean + Variance of a Discrete Uniform.md",
-    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.2) Binomial/(M7.2.3) Binomial Table A.1.md",
-    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.2) Binomial/(M7.2.2) Binomial Probability Distribution.md",
-    "STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.2) Binomial/(M7.2.1) Binomial Experiments.md"
+    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/Resources/finding_limits_middle_60_percent_area_in_tails.png",
+    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/Resources/finding_limits_middle_60_percent_curve.png",
+    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/Resources/finding_limits_top_10_percent_curve.png",
+    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/Resources/non_standard_finding_probabilites_example_1_curve.png",
+    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/Resources/non_standard_finding_probabilites_example_1_curve_2.png",
+    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/Resources/normal_distribution_curve.png",
+    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/Resources/converting_x_to_z.png",
+    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/Resources/non_standard_to_standard_table_a3.jpeg",
+    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/Resources/non_standard_to_standard_curve.png",
+    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/Resources/finding_z_values_5_curve.png"
   ]
 }
