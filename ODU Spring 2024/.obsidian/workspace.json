@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cdd38b2b892b4476",
+        "id": "32091b3ff9a98db2",
         "type": "tabs",
         "children": [
           {
-            "id": "5a97317c801bc675",
+            "id": "c1964f9151dcfbfd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5086555480957
+    "width": 310.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "aae9cf8262a7b3a9",
@@ -149,8 +150,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a97317c801bc675",
+  "active": "c1964f9151dcfbfd",
   "lastOpenFiles": [
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.3) Password Weakness/(M8.3.3) Countermeasures.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.3) Password Weakness/(M8.3.2) Rainbow Tables.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.3) Password Weakness/(M8.3.1) Introduction.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.2) Common Attacks and Attack Patterns/(M8.2.3) Port Scanning.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.2) Common Attacks and Attack Patterns/(M8.2.2) Countermeasures.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.2) Common Attacks and Attack Patterns/(M8.2.1) Common Attacks and Attack Patterns.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.1) Vulnerability and Exploit/(M8.1.3) Vulnerability, Exploits to Attacks.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.1) Vulnerability and Exploit/(M8.1.2) Exploit Example.md",
+    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.1) Vulnerability and Exploit/(M8.1.1) Vulnerability and Exploit.md",
+    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/(M9.5.2) Finding Probabilities.md",
     "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.2) Race Conditions.md",
     "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.1) Numeric Overflow & Underflow.md",
     "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.8) Vulnerability Mitigation and Input Validation/(M8.8.2) Input Validation.md",
@@ -164,15 +175,6 @@
     "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.4) Access Control/(M8.4.3) Local vs Remote.md",
     "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.4) Access Control/(M8.4.2) External vs Within.md",
     "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.4) Access Control/(M8.4.1) Access Control.md",
-    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.3) Password Weakness/(M8.3.3) Countermeasures.md",
-    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.3) Password Weakness/(M8.3.2) Rainbow Tables.md",
-    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.3) Password Weakness/(M8.3.1) Introduction.md",
-    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.2) Common Attacks and Attack Patterns/(M8.2.3) Port Scanning.md",
-    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.2) Common Attacks and Attack Patterns/(M8.2.2) Countermeasures.md",
-    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.2) Common Attacks and Attack Patterns/(M8.2.1) Common Attacks and Attack Patterns.md",
-    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.1) Vulnerability and Exploit/(M8.1.3) Vulnerability, Exploits to Attacks.md",
-    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.1) Vulnerability and Exploit/(M8.1.2) Exploit Example.md",
-    "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.1) Vulnerability and Exploit/(M8.1.1 Vulnerability and Exploit.md",
     "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.1) Vulnerability and Exploit/(M8.1.1) Vulnerability and Exploit",
     "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions",
     "CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.8) Vulnerability Mitigation and Input Validation",
@@ -186,7 +188,6 @@
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.6) Finding Z Values.md",
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.5) Finding Probabilities.md",
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.4) Areas Between 2 Values.md",
-    "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.3) Areas to the Right.md",
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/Resources/finding_limits_middle_60_percent_area_in_tails.png",
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/Resources/finding_limits_middle_60_percent_curve.png",
     "STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/Resources/finding_limits_top_10_percent_curve.png",
