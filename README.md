@@ -1,1 +1,1 @@
-# My University Notes and Stuff
+# My Notes and Stuff
