@@ -91,7 +91,7 @@ body
     --background-secondary-alt:      var(--dark2);
     --background-modifier-border:    var(--dark2);
 
-    --cursor-line-background:        rgba(var(--red_x), 0.2);
+    --cursor-line-background:        rgba(var(--frost1), 0.2);
 
     --text-normal:                   var(--light2);
     --text-faint:                    var(--light0);
