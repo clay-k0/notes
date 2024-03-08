@@ -116,7 +116,7 @@ body
     --tag-background:                var(--dark2);
     --tag-background-hover:          var(--dark1);
 
-    --titlebar-text-color-focused:   var(--red);
+    --titlebar-text-color-focused:   var(--frost1);
 
     --inline-title-color:            var(--yellow);
 
@@ -135,8 +135,8 @@ body
     --table-row-odd-background:      hsl(220, 16%, 24%);
     --table-row-background-hover:    var(--dark3);
 
-    --text-selection:                rgba(var(--red_x), 0.6);
-    --flashing-background:           rgba(var(--red_x), 0.3);
+    --text-selection:                rgba(var(--frost1), 0.6);
+    --flashing-background:           rgba(var(--frost1), 0.3);
 
     --code-normal:                   var(--frost1);
     --code-background:               var(--dark1);
@@ -146,11 +146,11 @@ body
     --mermaid-exclude:               var(--dark3);
     --mermaid-seqnum:                var(--dark0);
 
-    --icon-color-hover:              var(--red);
+    --icon-color-hover:              var(--frost1);
     --icon-color-focused:            var(--frost2);
 
-    --nav-item-color-hover:          var(--red);
-    --nav-item-color-active:         var(--frost2);
+    --nav-item-color-hover:          var(--frost2);
+    --nav-item-color-active:         var(--frost1);
     --nav-file-tag:                  rgba(var(--yellow_x), 0.9);
 
     --graph-line:                    var(--dark3);
