@@ -1,8 +1,9 @@
 {
   "accentColor": "#727b97",
   "theme": "obsidian",
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Catppuccin",
   "textFontFamily": "Karla",
   "interfaceFontFamily": "Karla",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "baseFontSize": 14
 }
