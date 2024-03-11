@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.6) User Space vs Kernel Space Vulnerabilities/(M8.6.1) User Space vs Kernel Space Vulnerabilities.md",
+                "file": "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.2) Race Conditions.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "L2tp",
+                "query": "concurrent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 301.5026054382324,
-    "collapsed": true
+    "width": 301.5026054382324
   },
   "right": {
     "id": "0f4be1d698656753",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.6) User Space vs Kernel Space Vulnerabilities/(M8.6.1) User Space vs Kernel Space Vulnerabilities.md",
+                "file": "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.2) Race Conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.6) User Space vs Kernel Space Vulnerabilities/(M8.6.1) User Space vs Kernel Space Vulnerabilities.md",
+                "file": "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.2) Race Conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.6) User Space vs Kernel Space Vulnerabilities/(M8.6.1) User Space vs Kernel Space Vulnerabilities.md"
+                "file": "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.2) Race Conditions.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "abda6725795db8c8",
   "lastOpenFiles": [
+    "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.6) User Space vs Kernel Space Vulnerabilities/(M8.6.1) User Space vs Kernel Space Vulnerabilities.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.7) Buffer Overflow/(M8.7.2) Example Overflow.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.7) Buffer Overflow/(M8.7.1) Introduction.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.8) Vulnerability Mitigation and Input Validation/(M8.8.2) Input Validation.md",
@@ -175,7 +176,6 @@
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.5) Least Privilege Principle/(M8.5.2) Privilege Escalation.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.4) Access Control/(M8.4.2) External vs Within.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.1) Vulnerability and Exploit/(M8.1.2) Exploit Example.md",
-    "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.6) User Space vs Kernel Space Vulnerabilities/(M8.6.1) User Space vs Kernel Space Vulnerabilities.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.3) Password Weakness/(M8.3.3) Countermeasures.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.3) Password Weakness/(M8.3.2) Rainbow Tables.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.3) Password Weakness/(M8.3.1) Introduction.md",
