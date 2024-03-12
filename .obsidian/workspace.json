@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/(M10.1.1) Notation and Sample Statistics.md",
+                "file": "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.6) Finding Z Values.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "concurrent",
+                "query": "Table A.3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/(M10.1.1) Notation and Sample Statistics.md",
+                "file": "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.6) Finding Z Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/(M10.1.1) Notation and Sample Statistics.md",
+                "file": "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.6) Finding Z Values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/(M10.1.1) Notation and Sample Statistics.md"
+                "file": "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.6) Finding Z Values.md"
               }
             }
           },
@@ -158,44 +159,48 @@
   },
   "active": "b85c73450d6b0c81",
   "lastOpenFiles": [
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.6) F Distribution/(M10.6.4) Using Table A6.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.6) F Distribution/(M10.6.3) Example using F Distribution.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.6) F Distribution/(M10.6.1) F Distribution.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.5) t Distribution/(M10.5.4) Example using t Distribution.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.5) t Distribution/(M10.5.3) Uses of the t Distribution.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.5) t Distribution/(M10.5.2) Using Table A4.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.5) t Distribution/(M10.5.1) t Distribution.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.4) Chi-Squared Distribution/(M10.4.4) Chi-Square Examples.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.4) Chi-Squared Distribution/(M10.4.3) Uses of the Chi-Square Distribution.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.4) Chi-Squared Distribution/(M10.4.2) Using Table A5.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.4) Chi-Squared Distribution/(M10.4.1) Chi-Squared Distribution.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.3) Normal Approximation to the Binomial/(M10.3.3) Continuity Correction.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.3) Normal Approximation to the Binomial/(M10.3.2) Comparing Binomial to Normal Approx to Binomial.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.3) Normal Approximation to the Binomial/(M10.3.1) Normal Approximation to the Binomial.md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.5) Finding Probabilities.md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.4) Areas Between 2 Values.md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.3) Areas to the Right.md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.2) Areas to the Left.md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.1) Standard Normal Distribution.md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/(M9.5.3) Finding Limits of the Random Variable.md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/Resources/Table A3.pdf",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/(M9.5.2) Finding Probabilities.md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.2) Central Limit Theorem/Resources/Table A3.pdf",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/(M9.5.1) Nonstandard Normal Distribution.md",
     "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.2) Central Limit Theorem/(M10.2.3) Examples.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.2) Central Limit Theorem/(M10.2.2) Central Limit Theorem.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/(M10.1.2) Binomial Distribution.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/(M10.1.1) Notation and Sample Statistics.md",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.6) F Distribution/(M10.6.2) Uses of the F Distribution.md",
-    "README.md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.4) Standard Normal Distribution/(M9.4.6) Finding Z Values.md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.4) Hypergeometric/(M7.4.5) Binomial Approximation to the Hypergeometric.md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.3) Multinomial/(M7.3.3) Multinomial Example.md",
+    "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M7) Understanding Vulnerabilities/(M7.3) Common Vulnerability and Exposures (CVE)/(M7.3.1) CVE.md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M7) Discrete Probability Distributions - Part 1/(M7.2) Binomial/(M7.2.3) Binomial Table A.1.md",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M4) Algorithms/(M4.1) Algorithms/(M4.1.1c) Optimization.md",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.6) Matrices/(M3.6.1) Matrices/(M3.6.1b) Matrices Part 2.md",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.6) Matrices/(M3.6.1) Matrices/(M3.6.1a) Matrices Part 1.md",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M3) Sets, Functions, & Matrices/(M3.3) Functions/(M3.3.1a) Functions.md",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M2) Logic and Proofs/(M2.4) Proofs/(M2.4.2) Proof Methods and Strategy/(M2.4.2b) Proof and Disproof - Tilings.md",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M2) Logic and Proofs/(M2.4) Proofs/(M2.4.2) Proof Methods and Strategy/(M2.4.2a) Proof Methods and Strategy.md",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M2) Logic and Proofs/(M2.4) Proofs/(M2.4.1) Intro to Proofs/(M2.4.1) Intro to Proofs.md",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M2) Logic and Proofs/(M2.3) Rules of Inference/(M2.3.1) Rules of Inference/(M2.3.1c) Rules of Inference for Quantified Statements.md",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M2) Logic and Proofs/(M2.3) Rules of Inference/(M2.3.1) Rules of Inference/(M2.3.1a) The Rule of Inference.md",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M2) Logic and Proofs/(M2.1) Propositional Logic/(M2.1.3) Propositional Equivalences.md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.2) Central Limit Theorem/Resources/example_2_standard_normal_curve.png",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.2) Central Limit Theorem/Resources/example_1_standard_normal_curve.png",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/(M10.1.3) Normal Distribution (Revisited).md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/(M10.1.2) Binomial Distribution (Revisited).md",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/Resources/Table A3.pdf",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/Resources/standard_normal_distribution.png",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.2) Central Limit Theorem/Resources",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/Resources/normal_distribution.png",
+    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/Resources",
     "obsidian-notes.png",
-    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions/(M4.2.1a) Big-O.md",
     "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.2) Central Limit Theorem/(M10.2.1) Distribution of the Sample Mean",
     "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/(M10.1.3) Normal Distribution",
     "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/(M10.1.2) Binomial Distribution",
     "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review/(M10.1.1) Notation and Sample Statistics",
     "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.6) F Distribution",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.5) t Distribution",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.4) Chi-Squared Distribution",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.3) Normal Approximation to the Binomial",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.2) Central Limit Theorem",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M10) Normal Applications and Other Continuous Distributions/(M10.1) Review",
     "Courses/ODU Spring 2024/CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions/Resources/big-o.png",
-    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions/(M4.2.1b) Big-Omega and Big-Theta.md",
-    "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.2) Race Conditions.md",
-    "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.6) User Space vs Kernel Space Vulnerabilities/(M8.6.1) User Space vs Kernel Space Vulnerabilities.md",
-    "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.7) Buffer Overflow/(M8.7.2) Example Overflow.md",
-    "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.7) Buffer Overflow/(M8.7.1) Introduction.md",
     "notes.png"
   ]
 }
