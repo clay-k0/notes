@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.2) Race Conditions.md",
+                "file": "Courses/ODU Spring 2024/CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions/(M4.2.1a) Big-O.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 301.5026054382324
+    "width": 301.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "0f4be1d698656753",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.2) Race Conditions.md",
+                "file": "Courses/ODU Spring 2024/CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions/(M4.2.1a) Big-O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.2) Race Conditions.md",
+                "file": "Courses/ODU Spring 2024/CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions/(M4.2.1a) Big-O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.2) Race Conditions.md"
+                "file": "Courses/ODU Spring 2024/CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions/(M4.2.1a) Big-O.md"
               }
             }
           },
@@ -157,14 +157,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abda6725795db8c8",
+  "active": "00654dfe18c4d0f0",
   "lastOpenFiles": [
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions/Resources/big-o.png",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions/Resources",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions/(M4.2.1b) Big-Omega and Big-Theta.md",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions/(M4.2.1a) Big-O.md",
+    "Courses/ODU Spring 2024/CS381 Discrete Structures/(M4) Algorithms/(M4.2) Growth of Functions/(M4.2.1) Growth of Functions",
+    "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.2) Race Conditions.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.6) User Space vs Kernel Space Vulnerabilities/(M8.6.1) User Space vs Kernel Space Vulnerabilities.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.7) Buffer Overflow/(M8.7.2) Example Overflow.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.7) Buffer Overflow/(M8.7.1) Introduction.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.8) Vulnerability Mitigation and Input Validation/(M8.8.2) Input Validation.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.8) Vulnerability Mitigation and Input Validation/(M8.8.1) Vulnerability Mitigation.md",
-    "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.2) Race Conditions.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.9) Numeric Overflow & Underflow and Race Conditions/(M8.9.1) Numeric Overflow & Underflow.md",
     "Courses/ODU Spring 2024/Test.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.4) Access Control/(M8.4.3) Local vs Remote.md",
@@ -182,10 +187,7 @@
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.4) Access Control/(M8.4.1) Access Control.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.5) Least Privilege Principle/(M8.5.1) Introduction.md",
     "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.2) Common Attacks and Attack Patterns/(M8.2.3) Port Scanning.md",
-    "Courses/ODU Spring 2024/CS462 Cybersecurity Fundamentals/(M8) Vulnerabilities, Exploits, Attacks, Countermeasures/(M8.2) Common Attacks and Attack Patterns/(M8.2.2) Countermeasures.md",
-    "README.md",
     "obsidian-notes.png",
-    "Courses/ODU Spring 2024/STAT330 Intro to Probability & Statistics/(M9) Uniform and Normal Distributions/(M9.5) Normal Distribution Applications/(M9.5.3) Finding Limits of the Random Variable.md",
     "notes.png"
   ]
 }
