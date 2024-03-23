@@ -10,7 +10,7 @@ When playing the lottery game Cash4Life, you must choose a cash ball number from
 
 #### Solutions
 
-**a)** Our upper limit it 4, so $P(X\geq 2)=P(2)+P(3)+P(4)=\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=\frac{3}{4}$ 
+**a)** Our upper limit is 4, so $P(X\geq 2)=P(2)+P(3)+P(4)=\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=\frac{3}{4}$ 
 **b)** Variance: $n=4$, so $$\sigma^2=\frac{(4-1)(4+1)}{12}=\frac{3\times5}{12}=\frac{15}{12}=1.25$$
 - - -
 
