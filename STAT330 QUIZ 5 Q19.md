@@ -1,3 +1,5 @@
+## STAT330 Quiz 5 #19
+
 Given:
 - ${n_x = 8}$ (sample size for X)
 - ${\bar{x} = 15.75}$ (sample mean for X)
