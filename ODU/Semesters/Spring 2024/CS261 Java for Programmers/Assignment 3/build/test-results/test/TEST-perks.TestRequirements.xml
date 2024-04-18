@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="perks.TestRequirements" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-04-11T08:09:59" hostname="clayk-M1" time="0.01">
+  <properties/>
+  <testcase name="testAddPerk()" classname="perks.TestRequirements" time="0.008"/>
+  <testcase name="testRequirements()" classname="perks.TestRequirements" time="0.001"/>
+  <testcase name="testAddDependency()" classname="perks.TestRequirements" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

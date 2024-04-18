@@ -1,0 +1,352 @@
+What is your name? 
+# cards: Wild Bill:5  Maverick:5  Doc Holliday:5  
+Top card is 6D   Current suit is Diamonds
+Wild Bill plays the 6C
+Wild Bill has 4 cards.
+
+# cards: Wild Bill:4  Maverick:5  Doc Holliday:5  
+Top card is 6C   Current suit is Clubs
+Maverick plays the QC
+Maverick has 4 cards.
+
+# cards: Wild Bill:4  Maverick:4  Doc Holliday:5  
+Top card is QC   Current suit is Clubs
+Doc Holliday draws a card.
+Doc Holliday has 6 cards.
+
+# cards: Wild Bill:4  Maverick:4  Doc Holliday:6  
+Top card is QC   Current suit is Clubs
+
+Your hand: 3C AD 3H 4H JH
+
+What card would you like to play? (hit return to draw) Steve has 4 cards.
+
+# cards: Wild Bill:4  Maverick:4  Doc Holliday:6  
+Top card is 3C   Current suit is Clubs
+Wild Bill plays the AC
+Wild Bill has 3 cards.
+
+# cards: Wild Bill:3  Maverick:4  Doc Holliday:6  
+Top card is AC   Current suit is Clubs
+Maverick plays the 9C
+Maverick has 3 cards.
+
+# cards: Wild Bill:3  Maverick:3  Doc Holliday:6  
+Top card is 9C   Current suit is Clubs
+Doc Holliday plays the 9H
+Doc Holliday has 5 cards.
+
+# cards: Wild Bill:3  Maverick:3  Doc Holliday:5  
+Top card is 9H   Current suit is Hearts
+
+Your hand: AD 3H 4H JH
+
+What card would you like to play? (hit return to draw) Steve has 3 cards.
+
+# cards: Wild Bill:3  Maverick:3  Doc Holliday:5  
+Top card is JH   Current suit is Hearts
+Wild Bill draws a card.
+Wild Bill has 4 cards.
+
+# cards: Wild Bill:4  Maverick:3  Doc Holliday:5  
+Top card is JH   Current suit is Hearts
+Maverick plays the QH
+Maverick has 2 cards.
+
+# cards: Wild Bill:4  Maverick:2  Doc Holliday:5  
+Top card is QH   Current suit is Hearts
+Doc Holliday plays the AH
+Doc Holliday has 4 cards.
+
+# cards: Wild Bill:4  Maverick:2  Doc Holliday:4  
+Top card is AH   Current suit is Hearts
+
+Your hand: AD 3H 4H
+
+What card would you like to play? (hit return to draw) Steve has 2 cards.
+
+# cards: Wild Bill:4  Maverick:2  Doc Holliday:4  
+Top card is 4H   Current suit is Hearts
+Wild Bill plays the 6H
+Wild Bill has 3 cards.
+
+# cards: Wild Bill:3  Maverick:2  Doc Holliday:4  
+Top card is 6H   Current suit is Hearts
+Maverick plays the 8S and calls Diamonds
+Maverick has 1 cards.
+
+# cards: Wild Bill:3  Maverick:1  Doc Holliday:4  
+Top card is 8S   Current suit is Diamonds
+Doc Holliday plays the KD
+Doc Holliday has 3 cards.
+
+# cards: Wild Bill:3  Maverick:1  Doc Holliday:3  
+Top card is KD   Current suit is Diamonds
+
+Your hand: AD 3H
+
+What card would you like to play? (hit return to draw) Steve has 1 cards.
+
+# cards: Wild Bill:3  Maverick:1  Doc Holliday:3  
+Top card is AD   Current suit is Diamonds
+Wild Bill plays the AS
+Wild Bill has 2 cards.
+
+# cards: Wild Bill:2  Maverick:1  Doc Holliday:3  
+Top card is AS   Current suit is Spades
+Maverick draws a card.
+Maverick has 2 cards.
+
+# cards: Wild Bill:2  Maverick:2  Doc Holliday:3  
+Top card is AS   Current suit is Spades
+Doc Holliday plays the KS
+Doc Holliday has 2 cards.
+
+# cards: Wild Bill:2  Maverick:2  Doc Holliday:2  
+Top card is KS   Current suit is Spades
+
+Your hand: 3H
+
+What card would you like to play? (hit return to draw) Steve has 2 cards.
+
+# cards: Wild Bill:2  Maverick:2  Doc Holliday:2  
+Top card is KS   Current suit is Spades
+Wild Bill plays the QS
+Wild Bill has 1 cards.
+
+# cards: Wild Bill:1  Maverick:2  Doc Holliday:2  
+Top card is QS   Current suit is Spades
+Maverick plays the 3S
+Maverick has 1 cards.
+
+# cards: Wild Bill:1  Maverick:1  Doc Holliday:2  
+Top card is 3S   Current suit is Spades
+Doc Holliday plays the 4S
+Doc Holliday has 1 cards.
+
+# cards: Wild Bill:1  Maverick:1  Doc Holliday:1  
+Top card is 4S   Current suit is Spades
+
+Your hand: KC 3H
+
+What card would you like to play? (hit return to draw) Steve has 3 cards.
+
+# cards: Wild Bill:1  Maverick:1  Doc Holliday:1  
+Top card is 4S   Current suit is Spades
+Wild Bill draws a card.
+Wild Bill has 2 cards.
+
+# cards: Wild Bill:2  Maverick:1  Doc Holliday:1  
+Top card is 4S   Current suit is Spades
+Maverick draws a card.
+Maverick has 2 cards.
+
+# cards: Wild Bill:2  Maverick:2  Doc Holliday:1  
+Top card is 4S   Current suit is Spades
+Doc Holliday draws a card.
+Doc Holliday has 2 cards.
+
+# cards: Wild Bill:2  Maverick:2  Doc Holliday:2  
+Top card is 4S   Current suit is Spades
+
+Your hand: KC 3H 7S
+
+What card would you like to play? (hit return to draw) Steve has 2 cards.
+
+# cards: Wild Bill:2  Maverick:2  Doc Holliday:2  
+Top card is 7S   Current suit is Spades
+Wild Bill draws a card.
+Wild Bill has 3 cards.
+
+# cards: Wild Bill:3  Maverick:2  Doc Holliday:2  
+Top card is 7S   Current suit is Spades
+Maverick draws a card.
+Maverick has 3 cards.
+
+# cards: Wild Bill:3  Maverick:3  Doc Holliday:2  
+Top card is 7S   Current suit is Spades
+Doc Holliday draws a card.
+Doc Holliday has 3 cards.
+
+# cards: Wild Bill:3  Maverick:3  Doc Holliday:3  
+Top card is 7S   Current suit is Spades
+
+Your hand: KC 3H
+
+What card would you like to play? (hit return to draw) Steve has 3 cards.
+
+# cards: Wild Bill:3  Maverick:3  Doc Holliday:3  
+Top card is 7S   Current suit is Spades
+Wild Bill plays the 8D and calls Diamonds
+Wild Bill has 2 cards.
+
+# cards: Wild Bill:2  Maverick:3  Doc Holliday:3  
+Top card is 8D   Current suit is Diamonds
+Maverick plays the 9D
+Maverick has 2 cards.
+
+# cards: Wild Bill:2  Maverick:2  Doc Holliday:3  
+Top card is 9D   Current suit is Diamonds
+Doc Holliday plays the JD
+Doc Holliday has 2 cards.
+
+# cards: Wild Bill:2  Maverick:2  Doc Holliday:2  
+Top card is JD   Current suit is Diamonds
+
+Your hand: KC 10D 3H
+
+What card would you like to play? (hit return to draw) Steve has 2 cards.
+
+# cards: Wild Bill:2  Maverick:2  Doc Holliday:2  
+Top card is 10D   Current suit is Diamonds
+Wild Bill plays the 3D
+Wild Bill has 1 cards.
+
+# cards: Wild Bill:1  Maverick:2  Doc Holliday:2  
+Top card is 3D   Current suit is Diamonds
+Maverick plays the 2D
+Maverick has 1 cards.
+
+# cards: Wild Bill:1  Maverick:1  Doc Holliday:2  
+Top card is 2D   Current suit is Diamonds
+Doc Holliday plays the 7D
+Doc Holliday has 1 cards.
+
+# cards: Wild Bill:1  Maverick:1  Doc Holliday:1  
+Top card is 7D   Current suit is Diamonds
+
+Your hand: KC 3H
+
+What card would you like to play? (hit return to draw) Steve has 3 cards.
+
+# cards: Wild Bill:1  Maverick:1  Doc Holliday:1  
+Top card is 7D   Current suit is Diamonds
+Wild Bill draws a card.
+Wild Bill has 2 cards.
+
+# cards: Wild Bill:2  Maverick:1  Doc Holliday:1  
+Top card is 7D   Current suit is Diamonds
+Maverick draws a card.
+Maverick has 2 cards.
+
+# cards: Wild Bill:2  Maverick:2  Doc Holliday:1  
+Top card is 7D   Current suit is Diamonds
+Doc Holliday plays the 5D
+Doc Holliday has 0 cards.
+Wild Bill scores 9 points for a total of 9
+Maverick scores 60 points for a total of 60
+Doc Holliday scores 0 points for a total of 0
+Steve scores 23 points for a total of 23
+
+
+
+# cards: Wild Bill:5  Maverick:5  Doc Holliday:5  
+Top card is 3D   Current suit is Diamonds
+Maverick plays the KD
+Maverick has 4 cards.
+
+# cards: Wild Bill:5  Maverick:4  Doc Holliday:5  
+Top card is KD   Current suit is Diamonds
+Doc Holliday plays the 7D
+Doc Holliday has 4 cards.
+
+# cards: Wild Bill:5  Maverick:4  Doc Holliday:4  
+Top card is 7D   Current suit is Diamonds
+
+Your hand: 8D 3H QH 4S 8S
+
+What card would you like to play? (hit return to draw) What suit would you like to select? (CDHS) Steve has 4 cards.
+
+# cards: Wild Bill:5  Maverick:4  Doc Holliday:4  
+Top card is 8D   Current suit is Spades
+Wild Bill plays the KS
+Wild Bill has 4 cards.
+
+# cards: Wild Bill:4  Maverick:4  Doc Holliday:4  
+Top card is KS   Current suit is Spades
+Maverick plays the 10S
+Maverick has 3 cards.
+
+# cards: Wild Bill:4  Maverick:3  Doc Holliday:4  
+Top card is 10S   Current suit is Spades
+Doc Holliday plays the AS
+Doc Holliday has 3 cards.
+
+# cards: Wild Bill:4  Maverick:3  Doc Holliday:3  
+Top card is AS   Current suit is Spades
+
+Your hand: 3H QH 4S 8S
+
+What card would you like to play? (hit return to draw) Steve has 3 cards.
+
+# cards: Wild Bill:4  Maverick:3  Doc Holliday:3  
+Top card is 4S   Current suit is Spades
+Wild Bill plays the JS
+Wild Bill has 3 cards.
+
+# cards: Wild Bill:3  Maverick:3  Doc Holliday:3  
+Top card is JS   Current suit is Spades
+Maverick plays the 8H and calls Hearts
+Maverick has 2 cards.
+
+# cards: Wild Bill:3  Maverick:2  Doc Holliday:3  
+Top card is 8H   Current suit is Hearts
+Doc Holliday plays the 4H
+Doc Holliday has 2 cards.
+
+# cards: Wild Bill:3  Maverick:2  Doc Holliday:2  
+Top card is 4H   Current suit is Hearts
+
+Your hand: 3H QH 8S
+
+What card would you like to play? (hit return to draw) Steve has 2 cards.
+
+# cards: Wild Bill:3  Maverick:2  Doc Holliday:2  
+Top card is QH   Current suit is Hearts
+Wild Bill plays the 10H
+Wild Bill has 2 cards.
+
+# cards: Wild Bill:2  Maverick:2  Doc Holliday:2  
+Top card is 10H   Current suit is Hearts
+Maverick plays the 6H
+Maverick has 1 cards.
+
+# cards: Wild Bill:2  Maverick:1  Doc Holliday:2  
+Top card is 6H   Current suit is Hearts
+Doc Holliday draws a card.
+Doc Holliday has 3 cards.
+
+# cards: Wild Bill:2  Maverick:1  Doc Holliday:3  
+Top card is 6H   Current suit is Hearts
+
+Your hand: 3H 8S
+
+What card would you like to play? (hit return to draw) Steve has 1 cards.
+
+# cards: Wild Bill:2  Maverick:1  Doc Holliday:3  
+Top card is 3H   Current suit is Hearts
+Wild Bill plays the 8C and calls Clubs
+Wild Bill has 1 cards.
+
+# cards: Wild Bill:1  Maverick:1  Doc Holliday:3  
+Top card is 8C   Current suit is Clubs
+Maverick plays the 7C
+Maverick has 0 cards.
+Wild Bill scores 2 points for a total of 11
+Maverick scores 0 points for a total of 60
+Doc Holliday scores 29 points for a total of 29
+Steve scores 50 points for a total of 73
+
+
+
+# cards: Wild Bill:5  Maverick:5  Doc Holliday:5  
+Top card is 7D   Current suit is Diamonds
+Doc Holliday plays the 7H
+Doc Holliday has 4 cards.
+
+# cards: Wild Bill:5  Maverick:5  Doc Holliday:4  
+Top card is 7H   Current suit is Hearts
+
+Your hand: 2H 3H JH 2S 3S
+
+What card would you like to play? (hit return to draw) 

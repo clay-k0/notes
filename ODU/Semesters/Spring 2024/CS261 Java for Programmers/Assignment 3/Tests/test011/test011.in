@@ -1,0 +1,27 @@
+20
+A 1
+B 2
+C 1 A B
+D 2 C B
+E 1 D C
+F 2 E D
+G 1 E F
+H 2 F G
+I 1 G H
+J 2 H I
+K 1
+L 2
+M 1 K L
+N 2 L M
+O 1 M N
+P 2 N O
+Q 1 O P
+R 2 P Q
+S 1 R Q
+T 2 S R
+U 1
+V 2
+W 1 U V
+X 2 W V
+Y 1 X W
+Z 2 Y X

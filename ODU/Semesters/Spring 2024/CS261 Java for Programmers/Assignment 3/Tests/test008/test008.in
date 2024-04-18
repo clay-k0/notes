@@ -1,0 +1,27 @@
+13
+A 1
+B 2
+C 3 A B
+D 5 C B
+E 8 D C
+F 13 E D
+G 21 E F
+H 34 F G
+I 55 G H
+J 89 H I
+K 1
+L 2
+M 3 K L
+N 5 L M
+O 8 M N
+P 13 N O
+Q 21 O P
+R 34 P Q
+S 55 R Q
+T 89 S R
+U 1
+V 2
+W 3 U V
+X 5 W V
+Y 8 X W
+Z 13 Y X

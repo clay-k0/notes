@@ -1,0 +1,35 @@
+dateSubmitted:
+  mod: "@I/Deck.java"
+dueDate: 2024-04-22
+build:
+  command: ./gradlew jar compileTestJava
+  studentFiles:
+    include:
+      - "**.java"
+    exclude:
+      - Tests/**/*
+      - build/**/*
+  instructorFiles:
+    exclude:
+      - "**/Hand.java"
+      - "**/Deck.java"
+  javaSrcDir:
+    - src/main/java
+    - src/test/java
+test:
+  launch: java -cp @S/build/libs/assignment.jar Crazy8.Crazy8 1
+  grading:
+  - oracle: "smart"
+    ws: true
+    case: true
+    cap: 100
+  - ws: false
+    case: false
+    cap: 95
+  - ws: false
+    case: false
+    punctuation: false
+    cap: 90
+  - ws: false
+    numbersOnly: true
+    cap: 75

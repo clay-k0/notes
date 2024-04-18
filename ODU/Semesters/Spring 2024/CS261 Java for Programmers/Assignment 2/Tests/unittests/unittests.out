@@ -1,0 +1,32 @@
+
+Thanks for using JUnit! Support its development at https://junit.org/sponsoring
+
+[36m╷[0m
+[36m├─[0m [36mJUnit Jupiter[0m [32m✔[0m
+[36m│  ├─[0m [36mHandTest[0m [32m✔[0m
+[36m│  │  ├─[0m [34mtestAdd()[0m [32m✔[0m
+[36m│  │  ├─[0m [34mtestClear()[0m [32m✔[0m
+[36m│  │  ├─[0m [34mtestHand()[0m [32m✔[0m
+[36m│  │  └─[0m [34mtestRemove()[0m [32m✔[0m
+[36m│  └─[0m [36mTestDeck[0m [32m✔[0m
+[36m│     ├─[0m [34mtestAdd()[0m [32m✔[0m
+[36m│     ├─[0m [34mtestClear()[0m [32m✔[0m
+[36m│     ├─[0m [34mtestDeck()[0m [32m✔[0m
+[36m│     ├─[0m [34mtestDraw()[0m [32m✔[0m
+[36m│     └─[0m [34mtestShuffle()[0m [32m✔[0m
+[36m└─[0m [36mJUnit Vintage[0m [32m✔[0m
+
+Test run finished after 46 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         9 tests found           ]
+[         0 tests skipped         ]
+[         9 tests started         ]
+[         0 tests aborted         ]
+[         9 tests successful      ]
+[         0 tests failed          ]
+

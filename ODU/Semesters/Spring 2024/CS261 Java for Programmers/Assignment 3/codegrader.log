@@ -1,0 +1,340 @@
+2024-04-11 03:57:55,812 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite Tests -submissions . -inPlace -recording build
+2024-04-11 03:57:55,973 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./gradlew jar compileTestJava 
+2024-04-11 03:57:55,974 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 600
+2024-04-11 03:57:59,101 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:57:59,102 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:57:59,320 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:57:59,320 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:57:59,505 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:57:59,505 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:57:59,703 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:57:59,704 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:57:59,905 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:57:59,905 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:58:00,101 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:58:00,102 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:58:00,292 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:58:00,292 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:58:00,499 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:58:00,499 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:58:03,454 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:58:03,454 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:58:05,979 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:58:05,979 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:58:08,556 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:58:08,556 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:58:08,780 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:58:08,781 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:58:09,118 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:58:09,118 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:58:11,637 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 03:58:11,637 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:58:11,846 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp 'build/classes/java/test:build/libs/*:lib/*'  org.junit.platform.console.ConsoleLauncher -c perks.TestRequirements 
+2024-04-11 03:58:11,846 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 03:58:12,243 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:498 - removing Tests/builder
+2024-04-11 04:08:03,952 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite Tests -submissions . -inPlace -recording build
+2024-04-11 04:08:04,112 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./gradlew jar compileTestJava 
+2024-04-11 04:08:04,113 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 600
+2024-04-11 04:08:07,212 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:07,213 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:07,440 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:07,441 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:07,623 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:07,623 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:07,817 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:07,817 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:08,007 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:08,008 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:08,195 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:08,196 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:08,391 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:08,392 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:08,580 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:08,580 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:11,748 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:11,748 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:14,406 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:14,406 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:16,975 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:16,975 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:17,203 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:17,203 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:17,547 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:17,547 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:20,129 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:08:20,129 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:20,336 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp 'build/classes/java/test:build/libs/*:lib/*'  org.junit.platform.console.ConsoleLauncher -c perks.TestRequirements 
+2024-04-11 04:08:20,337 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:08:20,726 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:498 - removing Tests/builder
+2024-04-11 04:10:08,368 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite Tests -submissions . -inPlace -recording build
+2024-04-11 04:10:08,521 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./gradlew jar compileTestJava 
+2024-04-11 04:10:08,522 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 600
+2024-04-11 04:10:11,706 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:11,707 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:11,933 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:11,933 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:12,131 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:12,131 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:12,325 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:12,325 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:12,513 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:12,514 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:12,703 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:12,703 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:12,898 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:12,898 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:13,084 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:13,085 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:16,901 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:16,901 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:19,598 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:19,599 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:22,169 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:22,169 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:22,412 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:22,412 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:22,810 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:22,810 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:26,263 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:10:26,263 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:26,470 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp 'build/classes/java/test:build/libs/*:lib/*'  org.junit.platform.console.ConsoleLauncher -c perks.TestRequirements 
+2024-04-11 04:10:26,470 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:10:26,869 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:498 - removing Tests/builder
+2024-04-11 04:15:08,292 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite Tests -submissions . -inPlace -recording build
+2024-04-11 04:15:08,515 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./gradlew jar compileTestJava 
+2024-04-11 04:15:08,516 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 600
+2024-04-11 04:15:11,685 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:11,686 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:11,909 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:11,909 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:12,106 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:12,107 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:12,293 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:12,293 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:12,482 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:12,482 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:12,686 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:12,687 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:12,873 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:12,874 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:13,054 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:13,055 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:16,217 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:16,217 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:18,790 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:18,790 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:21,456 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:21,456 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:21,680 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:21,681 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:22,012 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:22,012 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:25,012 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:15:25,013 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:25,226 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp 'build/classes/java/test:build/libs/*:lib/*'  org.junit.platform.console.ConsoleLauncher -c perks.TestRequirements 
+2024-04-11 04:15:25,227 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:15:25,650 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:498 - removing Tests/builder
+2024-04-11 04:16:43,217 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite Tests -submissions . -inPlace -recording build
+2024-04-11 04:16:43,435 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./gradlew jar compileTestJava 
+2024-04-11 04:16:43,438 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 600
+2024-04-11 04:16:46,859 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:16:46,860 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:16:47,077 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:16:47,077 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:16:47,272 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:16:47,273 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:16:47,460 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:16:47,460 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:16:47,656 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:16:47,656 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:16:47,850 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:16:47,850 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:16:48,042 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:16:48,042 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:16:48,232 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:16:48,233 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:16:52,345 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:16:52,346 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:16:55,370 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:16:55,370 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:16:58,358 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:16:58,358 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:16:58,615 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:16:58,615 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:16:59,046 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:16:59,046 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:17:01,900 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:17:01,901 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:17:02,110 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp 'build/classes/java/test:build/libs/*:lib/*'  org.junit.platform.console.ConsoleLauncher -c perks.TestRequirements 
+2024-04-11 04:17:02,111 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:17:02,536 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:498 - removing Tests/builder
+2024-04-11 04:17:46,888 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite Tests -submissions . -inPlace -recording build
+2024-04-11 04:17:47,055 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./gradlew jar compileTestJava 
+2024-04-11 04:17:47,057 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 600
+2024-04-11 04:17:50,642 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:17:50,644 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:17:50,859 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:17:50,859 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:17:51,047 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:17:51,047 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:17:51,234 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:17:51,235 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:17:51,429 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:17:51,430 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:17:51,626 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:17:51,626 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:17:51,814 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:17:51,815 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:17:52,013 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:17:52,013 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:17:56,606 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:17:56,606 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:17:59,724 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:17:59,724 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:03,027 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:03,027 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:03,303 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:03,303 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:03,771 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:03,772 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:06,762 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:06,762 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:06,972 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp 'build/classes/java/test:build/libs/*:lib/*'  org.junit.platform.console.ConsoleLauncher -c perks.TestRequirements 
+2024-04-11 04:18:06,973 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:07,369 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:498 - removing Tests/builder
+2024-04-11 04:18:28,988 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite Tests -submissions . -inPlace -recording build
+2024-04-11 04:18:29,167 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./gradlew jar compileTestJava 
+2024-04-11 04:18:29,170 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 600
+2024-04-11 04:18:32,368 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:32,369 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:32,577 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:32,578 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:32,767 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:32,768 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:32,964 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:32,964 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:33,150 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:33,150 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:33,338 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:33,339 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:33,537 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:33,537 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:33,736 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:33,736 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:36,751 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:36,751 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:39,395 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:39,395 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:42,032 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:42,032 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:42,280 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:42,281 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:42,617 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:42,617 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:45,149 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:18:45,149 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:45,351 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp 'build/classes/java/test:build/libs/*:lib/*'  org.junit.platform.console.ConsoleLauncher -c perks.TestRequirements 
+2024-04-11 04:18:45,351 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:18:45,776 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:498 - removing Tests/builder
+2024-04-11 04:19:38,930 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite Tests -submissions . -inPlace -recording build
+2024-04-11 04:19:39,076 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./gradlew jar compileTestJava 
+2024-04-11 04:19:39,078 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 600
+2024-04-11 04:19:42,194 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:42,195 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:42,423 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:42,424 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:42,623 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:42,623 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:42,845 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:42,846 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:43,037 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:43,037 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:43,237 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:43,237 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:43,424 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:43,425 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:43,620 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:43,620 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:46,651 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:46,651 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:49,224 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:49,225 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:52,103 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:52,103 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:52,319 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:52,320 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:52,656 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:52,656 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:55,397 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:19:55,397 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:55,607 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp 'build/classes/java/test:build/libs/*:lib/*'  org.junit.platform.console.ConsoleLauncher -c perks.TestRequirements 
+2024-04-11 04:19:55,607 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:19:56,003 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:498 - removing Tests/builder
+2024-04-11 04:21:53,357 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite Tests -submissions . -inPlace -recording build
+2024-04-11 04:21:53,518 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./gradlew jar compileTestJava 
+2024-04-11 04:21:53,519 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 600
+2024-04-11 04:21:56,601 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:21:56,601 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:21:56,804 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:21:56,804 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:21:56,989 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:21:56,990 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:21:57,180 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:21:57,180 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:21:57,365 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:21:57,365 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:21:57,561 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:21:57,561 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:21:57,747 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:21:57,748 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:21:57,936 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:21:57,937 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:22:02,209 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:22:02,209 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:22:05,611 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:22:05,611 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:22:08,690 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:22:08,690 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:22:08,936 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:22:08,936 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:22:09,340 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:22:09,340 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:22:12,084 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:22:12,085 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:22:12,286 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp 'build/classes/java/test:build/libs/*:lib/*'  org.junit.platform.console.ConsoleLauncher -c perks.TestRequirements 
+2024-04-11 04:22:12,286 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:22:12,666 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:498 - removing Tests/builder
+2024-04-11 04:24:04,473 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite Tests -submissions . -inPlace -recording build
+2024-04-11 04:24:04,627 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./gradlew jar compileTestJava 
+2024-04-11 04:24:04,629 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 600
+2024-04-11 04:24:07,813 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:07,814 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:08,026 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:08,026 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:08,225 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:08,225 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:08,413 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:08,413 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:08,607 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:08,608 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:08,806 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:08,806 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:09,006 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:09,007 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:09,237 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:09,237 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:12,689 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:12,689 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:15,167 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:15,167 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:17,683 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:17,683 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:17,912 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:17,913 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:18,246 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:18,247 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:20,877 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /Users/clayk/workspace/Java/CS361_Java_Assignment_3/./build/libs/assignment.jar perks.PerkSelection 
+2024-04-11 04:24:20,877 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:21,081 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp 'build/classes/java/test:build/libs/*:lib/*'  org.junit.platform.console.ConsoleLauncher -c perks.TestRequirements 
+2024-04-11 04:24:21,081 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 60
+2024-04-11 04:24:21,457 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:498 - removing Tests/builder

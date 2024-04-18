@@ -1,0 +1,4 @@
+launch: java -cp 'build/classes/java/test:build/libs/*:lib/*'  org.junit.platform.console.ConsoleLauncher -c Crazy8.HandTest -c PlayingCards.TestDeck
+grading:
+  - oracle: junit5
+weight: 4

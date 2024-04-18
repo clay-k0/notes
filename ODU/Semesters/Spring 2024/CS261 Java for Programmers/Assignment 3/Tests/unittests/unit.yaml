@@ -1,0 +1,4 @@
+launch: java -cp 'build/classes/java/test:build/libs/*:lib/*'  org.junit.platform.console.ConsoleLauncher -c perks.TestRequirements
+grading:
+  - oracle: junit5
+weight: 4
