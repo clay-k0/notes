@@ -142,7 +142,7 @@ $P(X_{1}=3,X_{2}=2,X_{3}=1,X_{4}=4) = f(4,3,2,1)=$
 $$\frac{10!}{4!3!2!1!}\times(0.25)^3(0.15)^2(0.10)^1(0.50)^4=.0277$$
 
 > [!warning]
-> Be careful how you put this in the calculator. It may be better to do it bit by bit (i.e., $\frac{10!}{(4!3!2!1!)}$ first, then each of the rest).
+> Be careful how you put this in the calculator. It may be better to do it bit by bit (i.e. $\frac{10!}{(4!3!2!1!)}$ first, then each of the rest).
 
 
 ## Negative Binomial Distribution
