@@ -13,10 +13,10 @@ It is the part of mathematics that covers the study of discrete (rather than con
 - - -
 ### **Discrete vs Continuous**
 
-Discrete --> It is ***counted*** and examples include integers {..., -3, -2, -1, 0, 1, 2, 3, ...}, rolling a dice {1, 2, 3, ..., 6}
-
-
-Continuous --> It is ***measured*** and examples include age, height, weight, length, ...
+| Term           | Meaning                                                                                                                              |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Discrete**   | It is ***counted*** and examples include integers $\{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}$, rolling a dice $\{1, 2, 3, \dots, 6\}$ |
+| **Continuous** | It is ***measured*** and examples include age, height, weight, length, ...                                                           |
 
 - - -
 ### Problems Solved Using Discrete Mathematics
