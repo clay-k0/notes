@@ -203,6 +203,7 @@ $$(\overline x_{1}-\overline x_{2})+t\times \sqrt{ \frac{(n_{1}-1)s_{1}^2(n_{2}-
 
 $$=(1511.7-118.40) \pm 2.947 \times \sqrt{ \frac{6\times 49669.9+9 \times 15297.6}{7+10-2} \times \left( \frac{1}{7}+\frac{1}{10} \right)}$$
 
+$$=145.733 < \mu_{paraplegic}-\mu_{able~bodied}< 640.867$$
 
 #### Question 15
 
