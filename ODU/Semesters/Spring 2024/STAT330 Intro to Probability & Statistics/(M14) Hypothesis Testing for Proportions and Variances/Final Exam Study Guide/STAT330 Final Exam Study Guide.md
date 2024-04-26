@@ -259,13 +259,30 @@ $$-0.306<p_{1}-p_{2}<0.179$$
 
 $1-0.90=0.10$
 
-At $\frac{\alpha}{2}=\frac{0.10}{2}=0.05$ and $\nu=8$, [Table A.4]
+At $\frac{\alpha}{2}=\frac{0.10}{2}=0.05$ and $\nu=8$, [Table A.5](./Resources/Table_A5.pdf) gives the value 15.507
 
+At $1-0.05=0.95$ and $\nu=8$ in [Table A.5](./Resources/Table_A5.pdf) gives the value 2.733
+
+$$\frac{8 \times 3.45}{15.507}=1.78$$
+
+$$\frac{8 \times 3.45}{2.733}=10.10$$
+
+Thus,
+
+$$1.78<\sigma^2<10.10$$
 #### Question 18
 
 **Problem:** A random sample of 9 wheels of cheese yielded the following weights in pounds has a sample mean of 20.90 and a sample variance of 3.45. Assume the weights of wheels of cheese have a normal distribution. Find a 90% confidence interval for the population standard deviation.
 
 **Solution:**
+
+This uses the Question 17.
+
+$\sqrt{ 1.78 }=1.334$ and $\sqrt{ 10.10 }=3.178$
+
+Therefore,
+
+$$1.334<\sigma<3.178$$
 
 #### Question 19
 
@@ -343,7 +360,7 @@ $\alpha=0.04$
 
 $\frac{\alpha}{2}=\frac{0.04}{2}=0.02$
 
-Closest Table A.3 value to $0.0200$ leads us to
+Closest [Table A.3](./Resources/Table_A3.pdf) value to $0.0200$ leads us to
 
 $$-2.05$$
 
@@ -363,7 +380,7 @@ $\alpha=0.03$
 
 $1-\alpha=1-0.03=0.9700$
 
-Closest Table A.3 value to $0.9700$ leads us to $1.88$
+Closest [Table A.3](./Resources/Table_A3.pdf) value to $0.9700$ leads us to $1.88$
 
 #### Question 4
 
@@ -383,7 +400,7 @@ less than, $<$, indicates a left-tailed test
 
 $Z$ is given as $-0.57$
 
-The area to the left of  $-0.57$ in Table A.3 is $p=0.2843$
+The area to the left of  $-0.57$ in [Table A.3](./Resources/Table_A3.pdf) is $p=0.2843$
 
 #### Question 6
 
@@ -395,7 +412,7 @@ $\neq$ indicates a two-tailed test
 
 $Z$ is given as $-1.12$
 
-The area to the left of $|-1.12|=1.12$ in Table A.3 is $0.8686$, meaning the area to the right is $1-0.8686=0.1314$.
+The area to the left of $|-1.12|=1.12$ in [Table A.3](./Resources/Table_A3.pdf) is $0.8686$, meaning the area to the right is $1-0.8686=0.1314$.
 
 Therefore, our $p$-value is $2 \times 0.1314=0.2628$
 
@@ -413,7 +430,7 @@ Therefore, our $p$-value is $2 \times 0.1314=0.2628$
 
 $Z$ is given as $2.98$
 
-The area to the right of $2.98$ in Table A.3 is $1-0.9986=0.0014$.
+The area to the right of $2.98$ in [Table A.3](./Resources/Table_A3.pdf) is $1-0.9986=0.0014$.
 
 Therefore, our $p$-value is $0.0014$
 
@@ -451,7 +468,7 @@ $<$ indicates a left-tailed test
 
 $\nu=12,~\alpha=0.02$ are given
 
-In Table A.4,
+In [Table A.4](./Resources/Table_A4.pdf),
 
 1. Use the _row_ corresponding to degrees of freedom, $\nu=12$
 2. Use the _column_ corresponding to $\alpha=.02$
@@ -481,7 +498,7 @@ for scores on a test using an $\alpha=0.05$ level of significance, when it is kn
 - $\alpha=.05$ area to the left is $1-.05=.9500$. 
 - The closest values to $.9500$ on [Table A.3](./Resources/Table_A3.pdf) are $.9495$ and $.9505$, which are at $1.64$ and $1.65$, respectively, therefore $Z_{\alpha}=\frac{1.64+1.65}{2}=1.645$
 - Power $=1-\beta$ where $\beta=1-\mathrm{Power}=1-.85=.15$. 
-	- Closest Table A.3 value is to $0.8500$ is $0.8508$, so $Z_{\beta}=1.04$
+	- Closest [Table A.3](./Resources/Table_A3.pdf) value is to $0.8500$ is $0.8508$, so $Z_{\beta}=1.04$
 - $\sigma^2=7^2=49$
 - $\delta=92-88=4$ (This is the difference between $\mu_{0}=88$ and the fixed alternative of 92 in the problem statement)
 
@@ -511,7 +528,22 @@ $$n=\frac{\left( Z_{\frac{\alpha}{2}}+Z_{\beta} \right)\sigma^2}{\delta^2}=\frac
 
 **Solution:**
 
-#TODO Come back to this... (chose 68)
+$$H_{0}:\mu_{0}=200$$
+$$H_{1}:\mu_{0}\neq200$$
+
+$\neq$ indicates two-tailed test
+
+$\alpha=0.05$
+
+$\frac{\alpha}{2}=\frac{0.05}{2}=0.025$​ 
+
+Searching [Table A.3](./Resources/Table_A3.pdf) for 
+- $0.025$ gives $-1.96$, so $z_{\frac{\alpha}{2}}=1.96$
+- $1-0.90=0.10$ gives $-1.28$, so $z_{\beta}=1.28$
+
+$$n=\left(\frac{z_{\frac{\alpha}{2}}+z_{\beta}}{0.4}\right)^2$$
+
+$$=\left( \frac{1.96+1.28}{0.4} \right)^2=65.61=66$$
 
 #### Question 15
 
@@ -577,7 +609,7 @@ greater than, $>$ indicates a right-tailed test
 
 $\nu=n-1=12-1=11$
 
-In Table A.5, at $\nu=11$ and $\alpha=0.01$, we find the critical value $24.725$.
+In [Table A.5](./Resources/Table_A5.pdf), at $\nu=11$ and $\alpha=0.01$, we find the critical value $24.725$.
 
 Because our test statistic $17.1875$ does not exceed $24.725$, we fail to reject $H_{0}$.
 
