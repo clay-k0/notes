@@ -1,0 +1,30 @@
+dateSubmitted:
+  mod: "@I/Omega7.java"
+dueDate: 2024-04-22
+build:
+  studentFiles:
+    exclude:
+      - Tests/**/*
+      - build/**/*
+  instructorFiles:
+    exclude:
+      - src/Omega7.java
+  javaSrcDir:
+    - src
+test:
+  launch: java -cp @S/build/libs/assignment.jar Omega7
+  grading:
+  - oracle: "smart"
+    ws: true
+    case: true
+    cap: 100
+  - ws: false
+    case: false
+    cap: 95
+  - ws: false
+    case: false
+    punctuation: false
+    cap: 90
+  - ws: false
+    numbersOnly: true
+    cap: 75

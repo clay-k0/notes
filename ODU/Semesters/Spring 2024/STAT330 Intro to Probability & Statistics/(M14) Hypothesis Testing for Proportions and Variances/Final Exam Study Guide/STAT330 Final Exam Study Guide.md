@@ -13,7 +13,7 @@ The final exam consists of modules 11-14, which are covered in Quiz 5 and Quiz 6
 - People w/ hearing aids: 40
 - Sample: 493
 
-$$\frac{40}{493}=0.081$$
+$$\hat{p}=\frac{x}{n}=\frac{40}{493}=0.081$$
 
 #### Question 2
 
@@ -24,6 +24,7 @@ $n = 51,~x = 23,~95\%\mathrm{~Confidence}$
 **Solution:**
 
 We are given:
+
 - $n=51$
 - $x=23$
 - $95\%\mathrm{~Confidence}$
@@ -39,6 +40,7 @@ $$0.314<p<0.588$$
 **Solution:**
 
 Here,
+
 - $n=865$
 - $x=408$
 - $95\%~\mathrm{Confidence}$
@@ -68,9 +70,9 @@ $$=(1.96)^2\frac{(0.66)(0.34)}{0.03^2}=957.8=958$$
 
 #### Question 5
 
-**Problem:** Use the given data to find the minimum sample size required to estimate the population proportion
+**Problem:** Use the given data to find the minimum sample size required to estimate the population proportion.
 
-Margin of error 0.044, confidence level 95%, and an estimate of the population proportion is unknown
+Margin of error 0.044, confidence level 95%, and an estimate of the population proportion is unknown.
 
 **Solution:** 
 
@@ -79,8 +81,8 @@ Margin of error 0.044, confidence level 95%, and an estimate of the population p
 
 Here, $\hat{p}$ and $\hat{q}$ are _unknown_, so we must use
 
-$$m=\left( Z_{\frac{\alpha}{2}} \right)^2\frac{0.25}{E^2}$$
-$$=(1.96)^2\frac{0.25}{0.044^2}=496.1=497$$
+$$n=\frac{\left( Z_{\frac{\alpha}{2}} \right)^2}{4E^2}$$
+$$=\frac{(1.96)^2}{(4)(0.044)^2}=496.1=497$$
 
 #### Question 6
 
@@ -92,7 +94,7 @@ TI84 Plus CE `2nd` > `vars` > `invNorm`, then input
 
 $$invNorm\left( \frac{1-0.93}{2} \right)=-1.81$$
 
-Therefore, by symmetry $Z_{\frac{\alpha}{2}}=1.81$
+Therefore, by symmetry, $Z_{\frac{\alpha}{2}}=1.81$
 
 #### Question 7
 
@@ -103,7 +105,7 @@ Therefore, by symmetry $Z_{\frac{\alpha}{2}}=1.81$
 - Lower Limit: 0.23
 - Upper Limit: 0.27
 
-$$\frac{0.27-0.23}{2}=0.02$$
+$$E=\frac{0.27-0.23}{2}=0.02$$
 
 #### Question 8
 
@@ -137,7 +139,7 @@ $$n=\left[\frac{1.645(70)}{4} \right]^2=828.7=829$$
 **Solution:**
 
 - $\nu=30-1=29$
-- $1-0.90=0.10$ and $\frac{0.10}{2}=0.05$
+- $\alpha=1-0.90=0.10$ and $\frac{\alpha}{2}=\frac{0.10}{2}=0.05$
 
 At $\alpha=0.05$ and $\nu=29$ on [Table A.4](./Resources/Table_A4.pdf), we find $t_{\frac{\alpha}{2}}=1.699$
 
@@ -212,10 +214,12 @@ $$=145.733 < \mu_{paraplegic}-\mu_{able~bodied}< 640.867$$
 **Solution:**
 
 Sample 1:
+
 - $n=20$
 - $\overline x_{1}=105$
 
 Sample 2:
+
 - $n=15$
 - $\overline x_{2}=92$
 
@@ -232,10 +236,12 @@ $$10.058<\mu_{1}-\mu_{2}<15.942$$
 **Solution:**
 
 Sample 1:
+
 - $n_{1}=374$
 - $\overline x_{1} = 206$
 
 Sample 2:
+
 - $n_{2}=426$
 - $\overline x_{2}=338$
 
@@ -257,11 +263,11 @@ $$-0.306<p_{1}-p_{2}<0.179$$
 - $\nu=9-1=8$
 - $90\%~\mathrm{Confidence}=0.90$
 
-$1-0.90=0.10$
+$\alpha=1-0.90=0.10$ and $\frac{\alpha}{2}=0.05$
 
-At $\frac{\alpha}{2}=\frac{0.10}{2}=0.05$ and $\nu=8$, [Table A.5](./Resources/Table_A5.pdf) gives the value 15.507
+At $\alpha=0.05$ and $\nu=8$, [Table A.5](./Resources/Table_A5.pdf) gives the value 15.507
 
-At $1-0.05=0.95$ and $\nu=8$ in [Table A.5](./Resources/Table_A5.pdf) gives the value 2.733
+At $1-\alpha=1-0.05=0.95$ and $\nu=8$ in [Table A.5](./Resources/Table_A5.pdf) gives the value 2.733
 
 $$\frac{8 \times 3.45}{15.507}=1.78$$
 
@@ -270,13 +276,14 @@ $$\frac{8 \times 3.45}{2.733}=10.10$$
 Thus,
 
 $$1.78<\sigma^2<10.10$$
+
 #### Question 18
 
 **Problem:** A random sample of 9 wheels of cheese yielded the following weights in pounds has a sample mean of 20.90 and a sample variance of 3.45. Assume the weights of wheels of cheese have a normal distribution. Find a 90% confidence interval for the population standard deviation.
 
 **Solution:**
 
-This uses the Question 17.
+This uses Question 17.
 
 $\sqrt{ 1.78 }=1.334$ and $\sqrt{ 10.10 }=3.178$
 
@@ -291,22 +298,25 @@ $$1.334<\sigma<3.178$$
 **Solution:** 
 
 Sample X:
+
 - ${n_x = 8}$ (sample size)
 - ${\bar{x} = 15.75}$ (sample mean)
 - ${s_x^2 = 46.21}$ (sample variance)
 - $\nu_{1}=n_{x}-1=8-1=7$
 
 Sample Y:
+
 - ${n_y = 10}$ (sample size)
 - ${\bar{y} = 23.3}$ (sample mean)
 - ${s_y^2 = 92.68}$ (sample variance)
-- $\nu_{1}=n_{y}-1=10-1=9$
+- $\nu_{2}=n_{y}-1=10-1=9$
 
 
 $$F=\frac{s_{x}^2}{s_{y}^2}=\frac{46.21}{92.68}=0.499$$
 
 - Calculated F-statistic: 46.2192.68≈0.49992.6846.21​≈0.499
 - Critical values for a 90% confidence interval from the F-distribution:
+
     - Lower: 0.272
     - Upper: 3.293
 
@@ -328,10 +338,10 @@ Here's a trick for questions asking what can be concluded from 2 given samples:
 | Interval Result            | Conclusion      |
 | -------------------------- | --------------- |
 | Both Positive Values       | $p_{1}>p_{2}$   |
-| Both Values Negative       | $p_{1}<p_{2}$   |
-| One Positive, One Negative | Cannot conclude |
+| Both Negative Values       | $p_{1}<p_{2}$   |
+| One Positive, One Negative | Cannot Conclude |
 
-Observing $p_{1}=3.21$ and $p_{2}=-1.83$, we notice that one value is positive, while the other is negative.
+Observing $p_{1}=-3.21$ and $p_{2}=-1.83$, we notice that both values are negative.
 
 Therefore, we suspect the average length of _male_ green lynx spiders to be _longer_ than the average length of _female_ green lynx.
 
@@ -354,19 +364,14 @@ $$H_{1}:\mu<12$$
 
 **Solution:**
 
-$\neq$ denotes a two-tailed test
+$$H_{0}:\mu=100$$
+$$H_{1}:\mu \neq 100$$
 
-$\alpha=0.04$
 
-$\frac{\alpha}{2}=\frac{0.04}{2}=0.02$
-
-Closest [Table A.3](./Resources/Table_A3.pdf) value to $0.0200$ leads us to
-
-$$-2.05$$
-
-and by symmetry,
-
-$$+2.05$$
+- $\neq$ denotes a two-tailed test
+- $\alpha=0.04$
+- $\frac{\alpha}{2}=\frac{0.04}{2}=0.02$
+- Closest [Table A.3](./Resources/Table_A3.pdf) value to $0.0200$ leads us to $-2.05$ and by symmetry, $+2.05$
 
 #### Question 3
 
@@ -374,13 +379,13 @@ $$+2.05$$
 
 **Solution:**
 
-$>$ denotes a right-tailed test
+$$H_{0}:\mu=100$$
+$$H_{1}:\mu > 100$$
 
-$\alpha=0.03$
-
-$1-\alpha=1-0.03=0.9700$
-
-Closest [Table A.3](./Resources/Table_A3.pdf) value to $0.9700$ leads us to $1.88$
+- $>$ denotes a right-tailed test
+- $\alpha=0.03$
+- $1-\alpha=1-0.03=0.9700$
+- Closest [Table A.3](./Resources/Table_A3.pdf) value to $0.9700$ leads us to $1.88$
 
 #### Question 4
 
@@ -396,11 +401,12 @@ Because the test statistic, $1.67$, is greater than the critical value, $1.645$,
 
 **Solution:**
 
-less than, $<$, indicates a left-tailed test
+$$H_{0}:\mu=90000$$
+$$H_{1}:\mu>90000$$
 
-$Z$ is given as $-0.57$
-
-The area to the left of  $-0.57$ in [Table A.3](./Resources/Table_A3.pdf) is $p=0.2843$
+- less than, $<$, indicates a left-tailed test
+- $Z$ is given as $-0.57$
+- The area to the left of  $-0.57$ in [Table A.3](./Resources/Table_A3.pdf) is $p=0.2843$
 
 #### Question 6
 
@@ -408,13 +414,14 @@ The area to the left of  $-0.57$ in [Table A.3](./Resources/Table_A3.pdf) is $p=
 
 **Solution:**
 
-$\neq$ indicates a two-tailed test
+$$H_{0}:\mu=600$$
+$$H_{1}:\mu \neq 600$$
 
-$Z$ is given as $-1.12$
 
-The area to the left of $|-1.12|=1.12$ in [Table A.3](./Resources/Table_A3.pdf) is $0.8686$, meaning the area to the right is $1-0.8686=0.1314$.
-
-Therefore, our $p$-value is $2 \times 0.1314=0.2628$
+- $\neq$ indicates a two-tailed test
+- $Z$ is given as $-1.12$
+- The area to the left of $-1.12$ in [Table A.3](./Resources/Table_A3.pdf) is $0.8686$, meaning the area to the right is $1-0.8686=0.1314$.
+- Therefore, our $p$-value is $2 \times 0.1314=0.2628$
 
 > [!Note]
 > 
@@ -422,17 +429,16 @@ Therefore, our $p$-value is $2 \times 0.1314=0.2628$
 
 #### Question 7
 
-**Problem:** A researcher is interested in species diversity of two different wetland areas. She claims that wetland has higher species diversity than wetland 2. Assume the population standard deviations are known and the test statistic is calculated to be $Z=2.98$. Find the $p$-value for testing their claim.
+**Problem:** A researcher is interested in species diversity of two different wetland areas. She claims that wetland 1 has higher species diversity than wetland 2. Assume the population standard deviations are known and the test statistic is calculated to be $Z=2.98$. Find the $p$-value for testing their claim.
 
 **Solution:**
 
-"higher", $>$, indicates a right-tailed test
+$$H_{0}:\mu_{1}-\mu_{2}=0$$
+$$H_{1}:\mu_{1} - \mu_{2} > 0$$
 
-$Z$ is given as $2.98$
-
-The area to the right of $2.98$ in [Table A.3](./Resources/Table_A3.pdf) is $1-0.9986=0.0014$.
-
-Therefore, our $p$-value is $0.0014$
+- $>$ indicates a right-tailed test
+- $Z$ is given as $2.98$
+- The area to the right of $2.98$ in [Table A.3](./Resources/Table_A3.pdf) is $1-0.9986=0.0014$, so $p=0.0014$
 
 #### Question 8
 
@@ -440,7 +446,7 @@ Therefore, our $p$-value is $0.0014$
 
 **Solution:**
 
-Since the $p$ value $0.0311$ is less than our significance level of $\alpha=0.05$, we reject $H_{0}$.
+Since the $p$ value $0.0311$ is less than our significance level of $\alpha=0.05$, we _reject_ $H_{0}$.
 
 #### Question 9
 
@@ -451,10 +457,10 @@ Since the $p$ value $0.0311$ is less than our significance level of $\alpha=0.05
 $$H_{0}:\mu=4.0$$
 $$H_{1}:\mu \neq 4.0$$
 
-$n=9,~\overline x=4.3,~\mu_{0}=4.0,$ and $s=1.2$
-
-Therefore,
-
+- $n=9$
+- $\overline x=4.3$
+- $\mu_{0}=4.0$
+- $s=1.2$
 
 $$t=\frac{\overline x-\mu_{0}}{\frac{s}{\sqrt{ n }}}=\frac{4.3-4.0}{\frac{1.2}{\sqrt{ 9 }}}=0.75$$
 
@@ -464,9 +470,11 @@ $$t=\frac{\overline x-\mu_{0}}{\frac{s}{\sqrt{ n }}}=\frac{4.3-4.0}{\frac{1.2}{\
 
 **Solution:**
 
-$<$ indicates a left-tailed test
+$$H_{0}:\mu = 25$$
+$$H_{1}:\mu < 25$$
 
-$\nu=12,~\alpha=0.02$ are given
+- $<$ indicates a left-tailed test
+- $\nu=12,~\alpha=0.02$ are given
 
 In [Table A.4](./Resources/Table_A4.pdf),
 
@@ -480,9 +488,9 @@ In [Table A.4](./Resources/Table_A4.pdf),
 
 **Solution:**
 
-Since the population standard deviations, $\sigma_{1}$ and $\sigma_{2}$, are _unknown and unequal_, the test statistic is calculated as:
+Since the two variances, $\sigma_{1}$ and $\sigma_{2}$, are _unknown and unequal_, the test statistic is calculated as:
 
-$$t'=\frac{(\overline x_{1}-\overline x_{2})-d_{0}}{\sqrt{\frac{s_{1}^2}{n_{1}}+\frac{s_{2}^2}{n_{2}}}}$$
+$$t'=\frac{(\overline x_{1}-\overline x_{2})-d_{0}}{\sqrt{\frac{s_{1}^2}{n_{1}-1}+\frac{s_{2}^2}{n_{2}-1}}}$$
 
 #### Question 12
 
@@ -495,14 +503,14 @@ for scores on a test using an $\alpha=0.05$ level of significance, when it is kn
 
 **Solution:**
 
-- $\alpha=.05$ area to the left is $1-.05=.9500$. 
-- The closest values to $.9500$ on [Table A.3](./Resources/Table_A3.pdf) are $.9495$ and $.9505$, which are at $1.64$ and $1.65$, respectively, therefore $Z_{\alpha}=\frac{1.64+1.65}{2}=1.645$
-- Power $=1-\beta$ where $\beta=1-\mathrm{Power}=1-.85=.15$. 
+- $\alpha=0.05$ area to the left is $1-0.05=.9500$. 
+- The closest values to $.9500$ on [Table A.3](./Resources/Table_A3.pdf) are $0.9495$ and $0.9505$, which are at $1.64$ and $1.65$, respectively, therefore $Z_{\alpha}=\frac{1.64+1.65}{2}=1.645$
+- $\beta=1-\mathrm{Power}=1-0.85=.15$. 
 	- Closest [Table A.3](./Resources/Table_A3.pdf) value is to $0.8500$ is $0.8508$, so $Z_{\beta}=1.04$
 - $\sigma^2=7^2=49$
-- $\delta=92-88=4$ (This is the difference between $\mu_{0}=88$ and the fixed alternative of 92 in the problem statement)
+- $\delta=88-92=-4$
 
-$$n=\frac{(Z_{\alpha}+Z_{\beta})\sigma^2}{\delta^2}=\frac{(1.645+1.04)^2(49)}{4^2}=22.1=23$$
+$$n=\frac{(Z_{\alpha}+Z_{\beta})\sigma^2}{\delta^2}=\frac{(1.645+1.04)^2(49)}{-(4)^2}=22.1=23$$
 
 #### Question 13
 
@@ -516,34 +524,28 @@ for scores on a test using an $\alpha=0.01$ level of significance, when it is kn
 **Solution:**
 
 - $\frac{\alpha}{2}=\frac{.01}{2}=.005$ area to the left is $1-.005=.995$ in [Table A.3](./Resources/Table_A3.pdf) leads us to $\frac{2.57+2.58}{2}=2.575$
-- Power = $1-\beta\to \beta=1-\mathrm{Power}=1-.90=.10$, looking for the area to the left, $1-.10=.9000$, which leads us to $1.28$
-- $\sigma^2=5^2=25$
+- $\beta=1-\mathrm{Power}=1-.90=.10$, looking for the area to the left, $1-.10=.9000$, which leads us to $1.28$
+- $\sigma=5$
 - $\delta=75-69=6$
 
-$$n=\frac{\left( Z_{\frac{\alpha}{2}}+Z_{\beta} \right)\sigma^2}{\delta^2}=\frac{(2.575+1.28)^2(25)}{6^2}=10.3=11$$
+$$n=\frac{\left( Z_{\frac{\alpha}{2}}+Z_{\beta} \right)\sigma^2}{\delta^2}=\frac{(2.575+1.28)^2(5)^2}{6^2}=10.3=11$$
 
 #### Question 14
 
-**Problem:** A researcher wants to test the claim that the average amount of money spent weekly on groceries for a family of 4 in Hampton Roads is $200. How large a sample is needed to test the researcher's claim if the power of the test is to be 0.9 when the true mean amount of money spend is within $0.4\sigma$ of the hypothesized value? Use $\alpha=0.05$.
+**Problem:** A researcher wants to test the claim that the average amount of money spent weekly on groceries for a family of 4 in Hampton Roads is \$200. How large a sample is needed to test the researcher's claim if the power of the test is to be 0.9 when the true mean amount of money spend is within $0.4\sigma$ of the hypothesized value? Use $\alpha=0.05$.
 
 **Solution:**
 
 $$H_{0}:\mu_{0}=200$$
 $$H_{1}:\mu_{0}\neq200$$
 
-$\neq$ indicates two-tailed test
+Using [Table A.8](./Resources/Table_A8.png) with 
 
-$\alpha=0.05$
+- $\beta=1-\mathrm{Power}=1-0.90=0.10$
+- $\Delta=\frac{|\delta|}{\sigma}=\frac{0.4\sigma}{\sigma}=0.4$
+- $\alpha=0.05$
 
-$\frac{\alpha}{2}=\frac{0.05}{2}=0.025$​ 
-
-Searching [Table A.3](./Resources/Table_A3.pdf) for 
-- $0.025$ gives $-1.96$, so $z_{\frac{\alpha}{2}}=1.96$
-- $1-0.90=0.10$ gives $-1.28$, so $z_{\beta}=1.28$
-
-$$n=\left(\frac{z_{\frac{\alpha}{2}}+z_{\beta}}{0.4}\right)^2$$
-
-$$=\left( \frac{1.96+1.28}{0.4} \right)^2=65.61=66$$
+gives us $n=68$
 
 #### Question 15
 
@@ -556,7 +558,7 @@ $$H_{1}:p>0.50$$
 
 $\hat{p}=\frac{275}{500}=0.55$
 
-$$z=\frac{\hat{p}-p_{0}}{\sqrt{ \frac{p_{0} \times (1-p_{0})}{n} }}=\frac{0.55-0.50}{\sqrt{ \frac{0.50 \times 0.50}{500} }}=2.24$$
+$$z=\frac{\hat{p}-p_{0}}{\sqrt{ \frac{p_{0} \times q_{0}}{n} }}=\frac{0.55-0.50}{\sqrt{ \frac{0.50 \times 0.50}{500} }}=2.24$$
 
 #### Question 16
 
@@ -564,15 +566,11 @@ $$z=\frac{\hat{p}-p_{0}}{\sqrt{ \frac{p_{0} \times (1-p_{0})}{n} }}=\frac{0.55-0
 
 **Solution:**
 
-$<$ indicates a left-tailed test
+- $<$ indicates a left-tailed test
+- $\nu-n-1=20-1=19$
+- $\alpha=0.02$
 
-$\nu-n-1=20-1=19$
-
-$\alpha=0.02$
-
-In [Table A.5](./Resources/Table_A5.pdf), we look up the critical value using the column $1-\alpha=1-0.02=0.98$ and the row of $\nu=19$.
-
-We find the critical value $\chi^2=8.567$.
+Using $1-\alpha=1-0.02=0.98$ and of $\nu=19$ in [Table A.5](./Resources/Table_A5.pdf) gives us the critical value $\chi^2=8.567$.
 
 #### Question 17
 
@@ -580,20 +578,16 @@ We find the critical value $\chi^2=8.567$.
 
 **Solution:**
 
-greater than, $>$ indicates a right-tailed test
-
 $$H_{0}:\sigma^2=1.40$$
 $$H_{1}:\sigma^2>1.40$$
 
-The sample data gives us:
+$>$ indicates a right-tailed test
 
-$n=12$
+Given:
 
-$s=1.75$
-
-$\sigma=1.40$
-
-Therefore,
+- $n=12$
+- $s=1.75$
+- $\sigma=1.40$
 
 $$\chi^2=\frac{(n-1)s^2}{\sigma_{0}^2}=\frac{11(1.75^2)}{1.40^2}=17.1875$$
 
@@ -603,15 +597,12 @@ $$\chi^2=\frac{(n-1)s^2}{\sigma_{0}^2}=\frac{11(1.75^2)}{1.40^2}=17.1875$$
 
 **Solution:**
 
-Recall our test statistic, $\chi^2=17.1875$
+- Recall our test statistic, $\chi^2=17.1875$
+-  $>$ indicates a right-tailed test
+- $\nu=n-1=12-1=11$
+- In [Table A.5](./Resources/Table_A5.pdf), at $\nu=11$ and $\alpha=0.01$, we find the critical value $24.725$.
 
-greater than, $>$ indicates a right-tailed test
-
-$\nu=n-1=12-1=11$
-
-In [Table A.5](./Resources/Table_A5.pdf), at $\nu=11$ and $\alpha=0.01$, we find the critical value $24.725$.
-
-Because our test statistic $17.1875$ does not exceed $24.725$, we fail to reject $H_{0}$.
+Because our test statistic $17.1875$ does not exceed $24.725$, we _fail to reject_ $H_{0}$.
 
 #### Question 19
 
@@ -619,11 +610,9 @@ Because our test statistic $17.1875$ does not exceed $24.725$, we fail to reject
 
 **Solution:**
 
-two-tailed test ($\neq$)
-
-$\nu_{1}=n_{1}-1=25-1=24$
-
-$\nu_{2}=n_{2}-1=10-1=9$
+- $\neq$ indicates a two-tailed test
+- $\nu_{1}=n_{1}-1=25-1=24$
+- $\nu_{2}=n_{2}-1=10-1=9$
 
 - Two-tailed test: $\alpha=\frac{0.02}{2}=0.01$ is the area in each of the tails
 - In [Table A.6](./Resources/Table_A6.pdf), we look up the right-hand critical value using $\alpha=0.01,\nu_{1}=24,$ and $\nu_{2}=9$.
@@ -639,15 +628,8 @@ Therefore, the two critical values are $0.31$ and $4.73$.
 
 **Solution:**
 
-Test for equivalence, ($\neq$), two-tailed test
-
-$$H_{0}:\sigma_{1}^2=\sigma_{2}^2$$
-$$H_{1}:\sigma_{1}^2\neq\sigma_{2}^2$$
-
 $$s_{1}^2=4.2^2=17.64$$
 $$s_{2}^2=3.8^2=14.44$$
-
-Therefore,
 
 $$f=\frac{s_{1}^2}{s_{2}^2}=\frac{17.64}{14.44}=1.22$$
 

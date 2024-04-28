@@ -1,0 +1,18 @@
+2024-01-05 14:15:46,570 INFO [main] edu.odu.cs.zeil.codegrader.run.CLI:170 - Starting: -suite Tests -submissions . -inPlace -recording build
+2024-01-05 14:15:46,767 INFO [main] edu.odu.cs.zeil.codegrader.Stage:207 - Inferred build command: ./gradlew jar
+  in .
+2024-01-05 14:15:46,767 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: ./gradlew jar 
+2024-01-05 14:15:46,769 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 600
+2024-01-05 14:15:50,773 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /home/zeil/courses/cs261/latest/Assts/basic_omega7/Gold/./build/libs/assignment.jar Omega7 
+2024-01-05 14:15:50,775 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 5
+2024-01-05 14:15:50,975 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /home/zeil/courses/cs261/latest/Assts/basic_omega7/Gold/./build/libs/assignment.jar Omega7 
+2024-01-05 14:15:50,976 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 5
+2024-01-05 14:15:51,158 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /home/zeil/courses/cs261/latest/Assts/basic_omega7/Gold/./build/libs/assignment.jar Omega7 
+2024-01-05 14:15:51,158 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 5
+2024-01-05 14:15:51,341 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /home/zeil/courses/cs261/latest/Assts/basic_omega7/Gold/./build/libs/assignment.jar Omega7 
+2024-01-05 14:15:51,342 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 5
+2024-01-05 14:15:51,540 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /home/zeil/courses/cs261/latest/Assts/basic_omega7/Gold/./build/libs/assignment.jar Omega7 
+2024-01-05 14:15:51,541 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 5
+2024-01-05 14:15:51,728 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:144 - executeTest using command: java -cp /home/zeil/courses/cs261/latest/Assts/basic_omega7/Gold/./build/libs/assignment.jar Omega7 
+2024-01-05 14:15:51,728 INFO [main] edu.odu.cs.zeil.codegrader.TestCase:146 - . 5
+2024-01-05 14:15:51,926 INFO [main] edu.odu.cs.zeil.codegrader.TestSuite:498 - removing Tests/builder
