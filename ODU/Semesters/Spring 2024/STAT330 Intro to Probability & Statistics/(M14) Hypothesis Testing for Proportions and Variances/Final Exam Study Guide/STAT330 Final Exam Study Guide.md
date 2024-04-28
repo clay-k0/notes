@@ -10,8 +10,8 @@ The final exam consists of modules 11-14, which are covered in Quiz 5 and Quiz 6
 
 **Solution:**
 
-- People w/ hearing aids: 40
-- Sample: 493
+- $x$ (People w/ hearing aids): 40
+- $n$ (Sample): 493
 
 $$\hat{p}=\frac{x}{n}=\frac{40}{493}=0.081$$
 
@@ -90,7 +90,7 @@ $$=\frac{(1.96)^2}{(4)(0.044)^2}=496.1=497$$
 
 **Solution:**
 
-TI84 Plus CE `2nd` > `vars` > `invNorm`, then input
+TI84 Plus CE `2nd` > `vars` > `invNorm`:
 
 $$invNorm\left( \frac{1-0.93}{2} \right)=-1.81$$
 
@@ -223,7 +223,7 @@ Sample 2:
 - $n=15$
 - $\overline x_{2}=92$
 
-- $90\%~\mathrm{Confidence} = 0.90$
+$90\%~\mathrm{Confidence} = 0.90$
 
 TI84 Plus CE: `stat` > `TESTS` > `2-SampZInt` gives
 
@@ -245,7 +245,7 @@ Sample 2:
 - $n_{2}=426$
 - $\overline x_{2}=338$
 
-- $95\%~\mathrm{Confidence}=0.95$
+$95\%~\mathrm{Confidence}=0.95$
 
 Using TI84 Plus CE: `stat` > `TESTS` > `2-PropZInt` gives
 
@@ -311,19 +311,16 @@ Sample Y:
 - ${s_y^2 = 92.68}$ (sample variance)
 - $\nu_{2}=n_{y}-1=10-1=9$
 
+$90\%=\alpha=10\%=0.10\to\frac{\alpha}{2}=0.05$
 
-$$F=\frac{s_{x}^2}{s_{y}^2}=\frac{46.21}{92.68}=0.499$$
+Using [Table A.6](./Resources/Table_A6.pdf) with:
 
-- Calculated F-statistic: 46.2192.68≈0.49992.6846.21​≈0.499
-- Critical values for a 90% confidence interval from the F-distribution:
+- $f_{0.05}(7,7)$ gives us $3.29$
+- $f_{0.05}(9, 7)$ gives us $3.68$
 
-    - Lower: 0.272
-    - Upper: 3.293
+$$\frac{46.21}{92.68}\times \frac{1}{3.29}< \frac{\sigma_{1}^2}{\sigma_{2}^2} < \frac{46.21}{92.68}(3.68)$$
+$$0.152<\sigma_{1}^2<1.835$$
 
-$90\%~\mathrm{Confidence~Interval}$
-
-- Lower bound: $\frac{0.499}{3.293}=0.151$
-- Upper bound: $\frac{0.499}{0.272}=1.833$
 
 #### Question 20
 
@@ -476,11 +473,7 @@ $$H_{1}:\mu < 25$$
 - $<$ indicates a left-tailed test
 - $\nu=12,~\alpha=0.02$ are given
 
-In [Table A.4](./Resources/Table_A4.pdf),
-
-1. Use the _row_ corresponding to degrees of freedom, $\nu=12$
-2. Use the _column_ corresponding to $\alpha=.02$
-3. A left-tailed test has one negative critical value, therefore the critical $t$ value $-2.303$
+Using [Table A.4](./Resources/Table_A4.pdf) with $\nu=12$ and $\alpha=.02$ leads us to $2.303$, and by symmetry, $t=-2.303$.
 
 #### Question 11
 
@@ -510,7 +503,7 @@ for scores on a test using an $\alpha=0.05$ level of significance, when it is kn
 - $\sigma^2=7^2=49$
 - $\delta=88-92=-4$
 
-$$n=\frac{(Z_{\alpha}+Z_{\beta})\sigma^2}{\delta^2}=\frac{(1.645+1.04)^2(49)}{-(4)^2}=22.1=23$$
+$$n=\frac{(Z_{\alpha}+Z_{\beta})\sigma^2}{\delta^2}=\frac{(1.645+1.04)^2(49)}{(-4)^2}=22.1=23$$
 
 #### Question 13
 
@@ -524,7 +517,7 @@ for scores on a test using an $\alpha=0.01$ level of significance, when it is kn
 **Solution:**
 
 - $\frac{\alpha}{2}=\frac{.01}{2}=.005$ area to the left is $1-.005=.995$ in [Table A.3](./Resources/Table_A3.pdf) leads us to $\frac{2.57+2.58}{2}=2.575$
-- $\beta=1-\mathrm{Power}=1-.90=.10$, looking for the area to the left, $1-.10=.9000$, which leads us to $1.28$
+- $\beta=1-\mathrm{Power}=1-0.90=0.10$, looking for the area to the left, $1-0.10=.9000$, which leads us to $1.28$
 - $\sigma=5$
 - $\delta=75-69=6$
 
@@ -589,7 +582,7 @@ Given:
 - $s=1.75$
 - $\sigma=1.40$
 
-$$\chi^2=\frac{(n-1)s^2}{\sigma_{0}^2}=\frac{11(1.75^2)}{1.40^2}=17.1875$$
+$$\chi^2=\frac{(n-1)s^2}{\sigma^2}=\frac{11(1.75^2)}{1.40^2}=17.1875$$
 
 #### Question 18
 
@@ -610,11 +603,13 @@ Because our test statistic $17.1875$ does not exceed $24.725$, we _fail to rejec
 
 **Solution:**
 
-- $\neq$ indicates a two-tailed test
+$\neq$ indicates a two-tailed test
+
 - $\nu_{1}=n_{1}-1=25-1=24$
 - $\nu_{2}=n_{2}-1=10-1=9$
 
-- Two-tailed test: $\alpha=\frac{0.02}{2}=0.01$ is the area in each of the tails
+Two-tailed test: $\alpha=\frac{0.02}{2}=0.01$ is the area in each of the tails
+
 - In [Table A.6](./Resources/Table_A6.pdf), we look up the right-hand critical value using $\alpha=0.01,\nu_{1}=24,$ and $\nu_{2}=9$.
 	- Here, we find the critical value $f=4.73$
 - In [Table A.6](./Resources/Table_A6.pdf), we look up the left-hand critical value using $\alpha=0.01,\nu_{1}=9,$ and $\nu_{2}=24$.
