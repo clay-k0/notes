@@ -55,6 +55,7 @@ Let's take a look at the method set rules defined the Go spec:
 | -------------------- | ------------------------------------------------------------ |
 | A value (i.e `user`) | _Only_ value receivers can attach                            |
 | An address (`*user`) | _Both_ pointer and value receivers can attach to the address |
+
 If we look at this in terms of behavior, the picture becomes clearer: 
 
 Values only support value receivers because we can't always assume its address can be obtained. However, how come both pointer/value receivers can be used with addresses? Well, behavior-wise, we should generally use pointer receivers to share, but when it comes to value receivers, we use them in the aforementioned cases of `Decode` or `Unmarshal`.
