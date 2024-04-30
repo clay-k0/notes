@@ -1,0 +1,127 @@
+## Interfaces: Polymorphism
+
+"Polymorphism means that you write a certain program and it behaves differently depending on the data that is operates on." - Tom Kurtz
+
+### Creating an Interface
+
+Let's begin by creating an interface:
+
+```go
+// reader is an interface that defines the act of reading data
+type reader interface {
+	read(b []byte) (int, error)
+}
+```
+
+Interfaces are _valueless_, as they are not concrete data. If we were to do something like
+
+```go
+var r reader
+```
+
+it's important to understand that `r` is not real; we cannot read from it, write to it, or manipulate it.
+
+Notice the signature of our `read` function... 
+
+```go
+read(b []byte) (int, error)
+```
+
+Could it have been
+
+```go
+read(n int) ([]byte, error)
+// b := make([]byte, n) (hypothetical function body)
+```
+
+instead? No, this actually has a huge jump in cost - every time this line gets called, an allocation happens on the heap because the size (`n`) isn't known at compile-time. 
+
+How about if we don't ask for the size and hard-code it?
+
+```go
+read() ([]byte, error)
+// b := make([]byte, 4096) (hypothetical function body)
+```
+
+Well, the allocations wouldn't happen at first, but what about when `return b` back up the call stack? To the heap it goes.
+
+### Struct Definition
+
+Let's create a piece of concrete data to work with our interface:
+
+```go
+// file defines a file system
+type file struct {
+	name string
+}
+```
+
+### Implementation
+
+Now, let's implement `read` from the `reader` interface for a `file` using value semantics:
+
+```go
+// read implements the reader interface for a file
+func (file) read(b []byte) (int, error) {
+	// ...
+}
+```
+
+Let's add another concrete type called `pipe`
+
+```go
+// pipe defines a named pipe network connection
+type pipe struct {
+	name string
+}
+```
+
+and implement `read` for it:
+
+```go
+// read implements the reader interface for a network connection
+func (pipe) read(b []byte) (int, error) {
+	// ...
+}
+```
+
+### Putting It Together
+
+Now, let's interact with these through a new function:
+
+```go
+// retrieve can read any device and process the data
+func retrieve(r reader) error {
+	data := make([]byte, 100)
+
+	len, err := r.read(data)
+	if err != nil {
+		return err
+	}
+
+	fmt.Println(string(data[:len]))
+	return nil
+}
+```
+
+Notice the signature - we seem to be accepting a value of type `reader`. But we said interfaces don't hold values? Instead it's asking for any piece of concrete data that implements the behavior, which in this case is only the `read` method.
+
+Recall the quote at the top and it now makes sense: depending on which concrete type we `read` from, there is a respective method that will handle it accordingly. This is polymorphism.
+
+### The Final Pieces
+
+Let's show what we explained above in `main`:
+
+```go
+func main() {
+	// Create our 2 concrete types
+	f := file{"data.json"}
+	p := pipe{"cfg_service"}
+
+	// Call the retrieve function for each
+	retrieve(f)
+	retrieve(p)
+}
+```
+
+Note that value semantics are at play, meaning copies of both `f` and `p` get created.
