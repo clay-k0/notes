@@ -109,7 +109,7 @@ $$E=\frac{0.27-0.23}{2}=0.02$$
 
 #### Question 8
 
-**Problem:** A sample of 40 gym members have a mean age of $\overline x=44$ years.  Assume the population standard deviation is known to be $\sigma=10$ years.  Give a 99% confidence interval for the population mean age, $\mu$.
+**Problem:** A sample of 40 gym members has a mean age of $\overline x=44$ years.  Assume the population standard deviation is known to be $\sigma=10$ years.  Give a 99% confidence interval for the population mean age, $\mu$.
 
 **Solution:**
 
@@ -129,6 +129,8 @@ $$39.9<\mu<48.1$$
 **Solution:**
 
 $90\%~\mathrm{Confidence}\to 1.645$
+
+$$n=\left[\frac{Z_{\frac{\alpha}{2}\sigma}}{E}\right]^2$$
 
 $$n=\left[\frac{1.645(70)}{4} \right]^2=828.7=829$$
 
@@ -203,7 +205,7 @@ to get $-2.95$, and by symmetry $2.95$
 
 $$(\overline x_{1}-\overline x_{2})+t\times \sqrt{ \frac{(n_{1}-1)s_{1}^2(n_{2}-1)s_{2}^2}{(n_{1}+n_{2})-2} \times \left( \frac{1}{n_{1}}+\frac{1}{n_{2}} \right)}$$
 
-$$=(1511.7-118.40) \pm 2.947 \times \sqrt{ \frac{6\times 49669.9+9 \times 15297.6}{7+10-2} \times \left( \frac{1}{7}+\frac{1}{10} \right)}$$
+$$=(1511.7-118.40) \pm 2.95 \times \sqrt{ \frac{6\times 49669.9+9 \times 15297.6}{7+10-2} \times \left( \frac{1}{7}+\frac{1}{10} \right)}$$
 
 $$=145.733 < \mu_{paraplegic}-\mu_{able~bodied}< 640.867$$
 
@@ -215,12 +217,12 @@ $$=145.733 < \mu_{paraplegic}-\mu_{able~bodied}< 640.867$$
 
 Sample 1:
 
-- $n=20$
+- $n_{1}=20$
 - $\overline x_{1}=105$
 
 Sample 2:
 
-- $n=15$
+- $n_{2}=15$
 - $\overline x_{2}=92$
 
 $90\%~\mathrm{Confidence} = 0.90$
@@ -253,7 +255,7 @@ $$-0.306<p_{1}-p_{2}<0.179$$
 
 #### Question 17
 
-**Problem:** A random sample of 9 wheels of cheese yielded the following weights in pounds has a sample mean of 20.90 and a sample variance of 3.45. Assume the weights of wheels of cheese have a normal distribution. Find a 90% confidence interval for the population variance.
+**Problem:** A random sample of 9 wheels of cheese that yielded the following weights in pounds has a sample mean of 20.90 and a sample variance of 3.45. Assume the weights of wheels of cheese have a normal distribution. Find a 90% confidence interval for the population variance.
 
 **Solution:**
 
@@ -311,15 +313,19 @@ Sample Y:
 - ${s_y^2 = 92.68}$ (sample variance)
 - $\nu_{2}=n_{y}-1=10-1=9$
 
-$90\%=\alpha=10\%=0.10\to\frac{\alpha}{2}=0.05$
+
+$90\%~\mathrm{Confidence}=0.90$
+
+- $1-0.90=0.10$
+- $\frac{0.10}{2}=0.05$
 
 Using [Table A.6](./Resources/Table_A6.pdf) with:
 
 - $f_{0.05}(7,7)$ gives us $3.29$
 - $f_{0.05}(9, 7)$ gives us $3.68$
 
-$$\frac{46.21}{92.68}\times \frac{1}{3.29}< \frac{\sigma_{1}^2}{\sigma_{2}^2} < \frac{46.21}{92.68}(3.68)$$
-$$0.152<\sigma_{1}^2<1.835$$
+$$\frac{46.21}{92.68} \frac{1}{3.29}< \frac{\sigma_{1}^2}{\sigma_{2}^2} < \frac{46.21}{92.68}(3.68)$$
+$$0.152<\frac{\sigma_{1}^2}{\sigma_{2}^2}<1.835$$
 
 
 #### Question 20
@@ -399,7 +405,7 @@ Because the test statistic, $1.67$, is greater than the critical value, $1.645$,
 **Solution:**
 
 $$H_{0}:\mu=90000$$
-$$H_{1}:\mu>90000$$
+$$H_{1}:\mu<90000$$
 
 - less than, $<$, indicates a left-tailed test
 - $Z$ is given as $-0.57$
@@ -417,7 +423,7 @@ $$H_{1}:\mu \neq 600$$
 
 - $\neq$ indicates a two-tailed test
 - $Z$ is given as $-1.12$
-- The area to the left of $-1.12$ in [Table A.3](./Resources/Table_A3.pdf) is $0.8686$, meaning the area to the right is $1-0.8686=0.1314$.
+- In [Table A.3](./Resources/Table_A3.pdf), the area to the left of $-1.12$ is $0.8686$, meaning the area to the right is $1-0.8686=0.1314$.
 - Therefore, our $p$-value is $2 \times 0.1314=0.2628$
 
 > [!Note]
