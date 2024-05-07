@@ -1,4 +1,6 @@
-<h1 align="center">M7 + M8</h1>
+## Exam 2 Study Guide
+
+<h2 align="center">M7 + M8</h2>
 
 ## Uniform Distribution
 
@@ -49,7 +51,9 @@ $q=.30$
 
 **a)** $P(X=6)$
 - Plug into binomial formula 
+
 $${15 \choose 6} \times (.7)^6 \times (.3)^{15-6}=0.0116$$
+
 Alternatively, we could've done $P(6)-P(5)$ using Table A.1. Note that this would give us $0.0115$ instead.
 
 **b)**  $P(5\leq X\leq 9)$. Using Table A.1, $P(9)-P(4)=0.2777$

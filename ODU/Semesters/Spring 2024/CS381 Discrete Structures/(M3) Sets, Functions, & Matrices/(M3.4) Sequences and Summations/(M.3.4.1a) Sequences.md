@@ -1,5 +1,4 @@
-- - -
-## Sequence
+## Sequences
 
 **The Simple Definition:**
 - A sequence is an **ordered list** of elements like
