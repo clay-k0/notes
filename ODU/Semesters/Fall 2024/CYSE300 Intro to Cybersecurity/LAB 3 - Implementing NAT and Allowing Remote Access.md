@@ -43,6 +43,4 @@ In this lab, we'll
 1. Verify NAT works by pinging the external machine using `ping 175.45.176.200`
 
 
-
-
-
+**[TODO]**
